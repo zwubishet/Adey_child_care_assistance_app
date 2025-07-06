@@ -1,0 +1,81 @@
+name: adde
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+  google_nav_bar: ^5.0.7
+  gif: ^2.3.0
+  supabase_flutter: ^2.8.4
+  intl: ^0.19.0
+  google_sign_in: ^6.2.2
+  table_calendar: ^3.1.3
+  shared_preferences: ^2.5.2
+  fl_chart: ^1.0.0
+  image_picker: ^1.1.2
+  permission_handler: ^12.0.0+1
+  timezone: ^0.10.0
+  flutter_local_notifications: ^19.0.0
+  device_info_plus: ^11.3.3
+  socket_io_client: ^3.0.2
+  http: ^1.1.3
+  flutter_gemini: ^3.0.0
+  flutter_animate: ^4.5.2
+  timeago: ^3.2.2
+  google_fonts: ^6.2.1
+  jitsi_meet_flutter_sdk: ^11.1.1
+  connectivity_plus: ^6.1.4
+  hive_flutter: ^1.1.0
+  flutter_dotenv: ^5.2.1
+  curved_navigation_bar: ^1.0.6
+  line_icons: ^2.0.3
+  flutter_iconly: ^1.0.2
+  cached_network_image: ^3.4.1
+  sqflite: 
+  flutter_cache_manager: 
+  swipeable_tile: ^2.0.1
+  glassmorphism: ^3.0.0
+  webview_flutter: ^4.13.0
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/journaling.png
+    - assets/notebook.png
+    - assets/profile.png
+    - assets/user.png
+    - assets/welcome-back.png
+    - assets/woman.png
+    - assets/chatbot.png
+    - assets/community.png
+    - assets/medical-book.png
+    - assets/video-call.png
+    - assets/woman-1.png
+    - assets/chatbot-1.png
+    - assets/embryo.gif
+    - assets/bmi.png
+    - assets/diary.png
+    - assets/label.png
+    - assets/calendar.png
+    - assets/google.png
+    - .env
+  fonts:
+    - family: NotoSansEthiopic
+      fonts:
+        - asset: fonts/NotoSansEthiopic-Regular.ttf

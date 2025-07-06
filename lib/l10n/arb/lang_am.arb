@@ -1,0 +1,1797 @@
+{
+  "@@locale": "am",
+  "pageTitleNotificationDetail": "የማሳወቂያ ዝርዝሮች",
+  "messageLabel": "መልእክት",
+  "deliveredLabel": "ተልኳል: {date}",
+  "seenLabel": "ተመልክቷል",
+  "unreadLabel": "አልተነበበም",
+  "relevanceLabel": "ጠቀሜት",
+  "pageTitleNotificationHistory": "የማሳወቂያ ታሪክ",
+  "noNotifications": "ገና ምንም ማሳወቂያ የለም",
+  "errorLabel": "ስህተት: {error}",
+  "pageTitleCommunity": "ማህበረሰብ",
+  "whatsOnYourMind": "ምን እያሰብክ ነው",
+  "noPosts": "ምንም ልጥፍ የለም። አዲስ ፍጠር",
+  "pageTitleProfile": "መገለጫ",
+  "languageSettings": "የቋንቋ ቅንብሮች",
+  "languageEnglish": "እንግሊዝኛ",
+  "languageAmharic": "አማርኛ",
+  "viewNotification": "ማሳወቂያ ተመልከት",
+  "pageTitleHome": "መነሻ",
+  "pageTitleHealthMetrics": "የጤና መለኪያዎች",
+  "pageTitleEducation": "ትምህርት",
+  "pageTitleFavorites": "ተወዳጆች",
+  "pageTitleWeeklyTip": "ሳምንታዊ ምክር",
+  "pageTitleJournal": "ዕለታዊ ማስታወሻ",
+  "greeting": "ሰላም፣ {name}!",
+  "pregnancyJourney": "የእርግዝና ጉዞ",
+  "weeksLabel": "ሳምንታት",
+  "daysLabel": "ቀናት",
+  "weeklyTips": "ሳምንታዊ ምክሮች",
+  "noTipsYet": "እስካሁን ምንም ምክሮች የሉም—ጥቂት ያክሉ!",
+  "exploreFeatures": "ተግባራትን ያስሱ",
+  "featureCalendar": "ቀን መቁጠሪያ",
+  "featureCalendarDescription": "ቀጠሮዎችን መርሐ ግብር ያስይዙ",
+  "featureHealthMetrics": "የጤና መለኪያዎች",
+  "featureHealthMetricsDescription": "ጤናዎን ይፈትሹ",
+  "featureJournal": "ዕለታዊ ማስታወሻ",
+  "featureJournalDescription": "ሀሳቦችዎን ይፃፉ",
+  "featureNameSuggestion": "ስም መጠየቅ",
+  "featureNameSuggestionDescription": "የሕፃን ስሞችን ይፈልጉ",
+  "noUserLoggedIn": "ምንም ተጠቃሚ አልገባም",
+  "failedToLoadProfile": "መገለጫ መጫን አልተሳካም: {error}",
+  "weekLabel": "ሳምንት {week}",
+  "noTitle": "No Title",
+  "pageTitleHealthArticle": "የጤና ጽሑፍ",
+  "noDiaryEntries": "እስካሁን ምንም የዴስክ ግቤቶች የሉም።",
+  "errorLoadingEntries": "ግቤቶችን መጫን ላይ ስህተት: {error}",
+  "addedToFavorites": "ወደ ተወዳጆች ተጨምሯል!",
+  "removedFromFavorites": "ከተወዳጆች ተወግዷል!",
+  "errorUpdatingFavorite": "ተወዳጅ ማዘመን ላይ ስህተት: {error}",
+  "noContent": "ይዘት የለም",
+  "moreButton": "ተጨማሪ >>>",
+  "lessButton": "ያነሰ >>>",
+  "postedAt": "ተለጠፈ በ: {date}",
+  "weekLabelWithNumber": "ሳምንት {week}",
+  "favoriteEntriesTitle": "ተወዳጅ ግቤቶች",
+  "noFavoriteEntries": "እስካሁን ምንም ተወዳጅ ግቤቶች የሉም።",
+  "refreshButton": "አድስ",
+  "showMore": "ተጨማሪ >>>",
+  "showLess": "ያነሰ >>>",
+  "postedAtLabel": "የተለጠፈበት ቀን",
+  "bottomNavHome": "መነሻ",
+  "bottomNavCommunity": "ማህበረሰብ",
+  "bottomNavEducation": "ትምህርት",
+  "bottomNavConsult": "አማካሪ",
+  "failedToLoadUserData": "የተጠቃሚ ውሂብ መጫን አልተሳካም",
+  "errorLoadingData": "ስህተት ተከስቷል: {error}",
+  "consultPageComingSoon": "የአማካሪ ገፅ (በቅርቡ ይመጣል)",
+  "editProfileTitle": "መገለጫ አርትዕ",
+  "chooseFromGallery": "ከጋለሪ ምረጥ",
+  "takePhoto": "ፎቶ አንሳ",
+  "personalInformation": "የግል መረጃ",
+  "fullNameLabel": "ሙሉ ስም",
+  "ageLabel": "ዕድሜ",
+  "weightLabel": "ክብደት",
+  "heightLabel": "ቁመት",
+  "bloodPressureLabel": "የደም ግፊት (ለምሳሌ፣ 120/80)",
+  "selectHealthConditions": "ተፈጻሚ የጤና ሁኔታዎችን ምረጥ",
+  "describeHealthIssue": "የጤና ችግርህን ግለጽ",
+  "healthIssueHint": "የጤና ታሪክህን ወይም ችግሮችህን እዚህ ግለጽ...",
+  "saveProfileButton": "መገለጫ አስቀምጥ",
+  "failedToUpdateProfile": "መገለጫ ማዘመን አልተሳካም: {error}",
+  "cameraPermissionDenied": "የካሜራ ፍቃድ ተከልክሏል",
+  "galleryPermissionDenied": "የጋለሪ ፍቃድ ተከልክሏል",
+  "imageTooLarge": "ምስሉ በጣም ትልቅ ነው፣ እባክህ ትንሽ ምረጥ",
+  "errorPickingImage": "ምስል መምረጥ ላይ ስህተት: {error}",
+  "profileUpdatedSuccessfully": "መገለጫ በተሳካ ሁኔታ ታድሷል!",
+  "weightUnit": "{unit, select, kg {ኪግ} lbs {ፓውንድ} other {{unit}}}",
+  "heightUnit": "{unit, select, cm {ሴሜ} ft {ፊት} other {{unit}}}",
+  "healthCondition": "{condition, select, diabetes {ስኳር በሽታ} hypertension {ከፍተኛ የደም ግፊት} asthma {አስም} heartDisease {የልብ በሽታ} thyroidIssues {የታይሮይድ ችግሮች} other {ሌላ} other {{condition}}}",
+  "errorMarkingAsSeen": "እንደተመለከተ ምልክት ማድረግ ላይ �ስህተት: {error}",
+  "tapToView": "መታ ያድርጉ ለመመልከት",
+  "notificationChannelName": "የየቀኑ ምክር",
+  "notificationChannelDescription": "የጤና ምክሮች በየ4 ቀናት",
+  "fallbackTipTitle": "ምክር {index}",
+  "fallbackTipBody": "ለመከረው ሐኪምዎን ያማክሩ።",
+  "relevanceLabelWithValue": "ተገቢነት: {value}",
+  "genderLabel": "ጾታ",
+  "genderSelectionError": "እባክዎ ጾታ ይምረጡ",
+  "enterHealthData": "የጤና ውሂብ ያስገቡ:",
+  "bpSystolicLabel": "Blood Pressure Systolic (mmHg)",
+  "bpDiastolicLabel": "Blood Pressure Diastolic (mmHg)",
+  "heartRateLabel": "የልብ መጠጥ (bpm)",
+  "bodyTemperatureLabel": "የሰውነት ሙቀት (°C)",
+  "weightLabelKg": "ክብደት (ኪግ)",
+  "saveDataButton": "ውሂብ አስቀምጥ",
+  "recommendationsTitle": "ምክሮች:",
+  "healthTrendsTitle": "የጤና መልካም ሁኔታዎች:",
+  "noDataAvailable": "ውሂብ የለም።",
+  "dataSavedSuccessfully": "ውሂብ በተሳካ ሁኔታ ተቀምጧል!",
+  "failedToSaveData": "ውሂብ መቀመጥ አልተሳካም። እባክዎ እንደገና ይሞክሩ።",
+  "invalidValuesError": "እባክዎ ሁሉንም መስፈርቶች ትክክለኛ እሴቶችን ያስገቡ።",
+  "tempScaledLabel": "የሙቀት መጠን (°C x 5)",
+  "bpLowRecommendation": "የደም ግፊትህ ዝቅተኛ እንደሆነ ይመስላል (Systolic: {bpSys} mmHg, Diastolic: {bpDia} mmHg)። ይህ በውሃ እጥበት፣ በመቀነስ ወይም በሌሎች ምክንያቶች ሊኖር ይችላል። ለመቀነስ የሚረዱበትን ጥሩ የጤና መልካም ሁኔታ ይቀጥሉ፣ በየቀኑ ውሃ መጠጣትን ያሳድጉ (8-10 ጋላ ይዘት) እና የእህቴ ምግብ መቀነስ ይፈልጉ። ከዚያም በተለቀቀ ጊዜ ለማስጠበቅ ለመንገድ እና ለማደንቀፍ ከሆነ ለማድረግ ለመልካም አቅም የሚያስፈልግ ነው።",
+  "bpHighRecommendation": "የደም ግፊትህ ከፍተኛ ነው (Systolic: {bpSys} mmHg, Diastolic: {bpDia} mmHg)፣ ይህም ሊያመልክት የሚችል ነው የከፍተኛ የደም ግፊት ነው። ለመቀነስ የሚረዱበትን ጥሩ የጤና መልካም ሁኔታ ይቀጥሉ፣ በየቀኑ ውሃ መጠጣትን ያሳድጉ (8-10 ጋላ ይዘት) እና የእህቴ ምግብ መቀነስ ይፈልጉ። ከዚያም በተለቀቀ ጊዜ ለማስጠበቅ ለመንገድ እና ለማደንቀፍ ከሆነ ለማድረግ ለመልካም አቅም የሚያስፈልግ ነው።",
+  "bpNormalRecommendation": "የደም ግፊትህ (Systolic: {bpSys} mmHg, Diastolic: {bpDia} mmHg) መደበኛ ነው። ይህን ለመቀነስ የሚረዱበትን ጥሩ የጤና መልካም ሁኔታ ይቀጥሉ፣ በየቀኑ ውሃ መጠጣትን ያሳድጉ (8-10 ጋላ ይዘት) እና የእህቴ ምግብ መቀነስ ይፈልጉ። ከዚያም በተለቀቀ ጊዜ ለማስጠበቅ ለመንገድ እና ለማደንቀፍ ከሆነ ለማድረግ ለመልካም አቅም የሚያስፈልግ ነው።",
+  "hrLowRecommendation": "የልብ መጠጡ ({hr} bpm) ዝቅተኛ ነው። ይህ ለጤና ያለፈ ሰዎች መደበኛ ነው፣ ግን ከፍተኛ አይነት እንቅስቃሴ አልተካሄድም ወይም መቀነስ እንደሚሰማብዎ መመከር ይገባል። የልብ መጠጥን ለመጨመር እንቁስቋሴዎን ያሳድጉ በሚያደርግበት ጊዜ የልብ መጠጡን ያረጋግጡ።",
+  "hrHighRecommendation": "የልብ መጠጡ ({hr} bpm) ከፍተኛ ነው፣ ይህም በጭንቀት፣ በቡና ወይም በግብዓት ሊኖር ይችላል። ለመቀነስ የልብ መጠጡን ያረጋግጡ በሚያደርግበት ጊዜ የልብ መጠጡን ያረጋግጡ።",
+  "hrNormalRecommendation": "የልብ መጠጡ ({hr} bpm) መደበኛ ነው። ይህን ለመቀነስ የልብ መጠጡን ያረጋግጡ በሚያደርግበት ጊዜ የልብ መጠጡን ያረጋግጡ።",
+  "tempLowRecommendation": "የሰውነት ሙቀት ({temp}°C) ከመካከለኛ መከላከያ በታች ነው፣ ይህም በተቆጣጠረ ሁኔታ ወይም በተቀንሶ መጠን ሊኖር ይችላል። ለመቀነስ የሰውነት ሙቀትዎን ያረᜌጋግጡ በሚያደርግበት ጊዜ የሰውነት ሙቀትዎን ያረጋግጡ።",
+  "tempHighRecommendation": "የሰውነት ሙቀት ({temp}°C) ከፍተኛ ነው፣ ይህም ሊያመልክት የሚችል ነው የተቆጣጠረ ሁኔታ ነው። ለመቀነስ የሰውነት ሙቀትዎን ያረጋግጡ በሚያደርግበት ጊዜ የሰውነት ሙቀትዎን ያረጋግጡ።",
+  "tempNormalRecommendation": "የሰውነት ሙቀት ({temp}°C) መደበኛ ነው። ይህን ለመቀነስ የሰውነት ሙቀትዎን ያረጋግጢ በሚያደርግበት ጊዜ የሰውነት ሙቀትዎን ያረጋግጡ።",
+  "weightLowRecommendation": "ክብደትህ ({weight} kg) ዝቅተኛ ነው። ይህን ለመቀነስ የሰውነት ክብደትዎን ያረጋግጡ በሚያደርግበት ጊዜ የሰውነት ክብደትዎን ያረጋግጡ።",
+  "weightHighRecommendation": "ክብደትህ ({weight} kg) ከፍተኛ ነው። ይህን ለመቀነስ የሰውነት ክብደትዎን ያረጋግጡ በሚያደርግበት ጊዜ የሰውነት ክብደትዎን ያረጋግጡ።",
+  "weightNormalRecommendation": "ክብደትህ ({weight} kg) መደበኛ ነው። ይህን ለመቀነስ የሰውነት ክብደትዎን ያረጋግጡ በሚያደርግበት ጊዜ የሰውነት ክብደትዎን ያረጋግጡ።",
+  "bpSysIncreasedRecommendation": "የደም ግፊትህ (Systolic: {bpSys} mmHg) ከፍተኛ ነው ከፊተኛ መጠን (ከ{prevBpSys} ወደ {bpSys}) በላይ ነው። ይህ በጊዜ ሁኔታ ወይም በተመጣጣኝ ምግብ ሊኖር ይችላል፣ ግን በተቃራይ ጊዜ ይመከሩ።",
+  "hrIncreasedRecommendation": "የልብ መጠጡ ({hr} bpm) ከፊተኛ መጠን (ከ{prevHr} ወደ {hr}) በላይ ነው። ይህ በጊዜ ሁኔታ ወይም በተመጣጣኝ እንቁስቋሴ ሊኖር ይችላል፣ ግን በተቃራይ ጊዜ ይመከሩ።",
+  "weightIncreasedRecommendation": "ክብደትህ ({weight} kg) ከፊተኛ መጠን (ከ{prevWeight} ወደ {weight}) በላይ ነው። ይህ በውሃ መጠጣት ወይም በተመጣጣኝ ምግብ ሊኖር ይችላል፣ ግን በተቃራይ ጊዜ ይመከሩ።",
+  "allVitalsNormalRecommendation": "ሁሉም የመጨረሻ የጤና መለኪያዎችህ (BP: {bpSys}/{bpDia} mmHg, HR: {hr} bpm, Temp: {temp}°C, Weight: {weight} kg) መደበኛ ናቸው። በጣም ጥሩ! ጤናማ ልማቶችህን ቀጥል፣ ሚዛናዊ ምግብ፣ መደበኛ እንቅስቃሴ (ሳምንታዊ 150 ደቂቃዎች)፣ እና ተከታታይ እንቅልፍ (በሌሊት 7-9 ሰዓታት) ለመቀጠል።",
+  "noDataRecommendation": "እስካሁን ውሂብ የለም። የጤና መለኪያዎችህን በማስገባት ግላዊ ምክሮችን ለመቀበል ጀምር።",
+  "tooltipBpSys": "BP Sys: {value} mmHg",
+  "tooltipHr": "HR: {value} bpm",
+  "tooltipTemp": "የሙቀት መጠን: {value}°C",
+  "tooltipWeight": "ክብደት: {value} kg",
+  "boysLabel": "ወንዶች",
+  "femaleGender": "የሴት ጾታ",
+  "girlsLabel": "ሴቶች",
+  "maleGender": "የወንድ ጾታ",
+  "noNamesAvailable": "ለ{category} ምንም ስሞች የሉም",
+  "pageTitleNameSuggestion": "የሕፃን ስም መጠየቂያ",
+  "tabAll": "ሁሉም",
+  "tabChristian": "ክርስቲያን",
+  "tabMuslim": "ሙስሊም",
+  "addNoteLabel": "ማስቀመጥ ምስክር",
+  "deleteAction": "መሰረዝ",
+  "errorDeletingNote": "የምስክር መሰረዝ ላይ ስህተት: {error}",
+  "loginPrompt": "እባክህ መግባት ይፈልጋሉ",
+  "noNotesMatchSearch": "ምንም ምስክሮች ከመፈለጉ ጋር አይዛመዱም",
+  "noNotesYet": "እስካሁን ምንም ምስክር የለም። አንድ ያክሉ!",
+  "searchHint": "የምስክሮችን በአርዕስት መፈለግ...",
+  "aboutSection": "ስለ",
+  "appointmentAccepted": "ቀጠሮ ተቀባይነት አግኝቷል",
+  "appointmentCancelled": "ቀጠሮ ተሰርዟል",
+  "appointmentCancelledMessage": "ይህ ቀጠሮ ተሰርዟል። የቪዲዮ ጥሪው ይጠናቀቃል።",
+  "appointmentWithDoctor": "{doctorName} ጋር ቀጠሮ",
+  "appointmentsLabel": "ቀጠሮዎች",
+  "availableDoctors": "የሚገኙ ዶክተሮች",
+  "availableTimeSlots": "የሚገኙ የጊዜ ቦታዎች፡",
+  "beforeJoining": "ከመቀላቀልዎ በፊት፡",
+  "bookAppointment": "ቀጠሮ ይያዙ",
+  "bookAppointmentWith": "{fullName} ጋር ቀጠሮ ይያዙ",
+  "bookNewAppointmentTooltip": "አዲስ ቀጠሮ ይያዙ",
+  "bookingLabel": "መያዣ",
+  "callEnded": "ጥሪ አልቋል፡ {error}",
+  "connectedToCall": "ወደ ጥሪ ተገናኝቷል",
+  "connectedToServer": "ከአገልጋይ ጋር ተገናኝቷል",
+  "connectingToCall": "ወደ ጥሪ በመገናኘት ላይ...",
+  "contactInformation": "የመገናኛ መረጃ",
+  "copiedToClipboard": "ወደ ክሊፕቦርድ ተቀድቷል",
+  "copyLinkTooltip": "አገናኝ ቅዳ",
+  "couldNotCreateProfile": "የተጠቃሚ መገለጫ መፍጠር አልተሳካም። እባክዎ እንደገና ይሞክሩ።",
+  "doctorProfile": "ዶክተር መገለጫ፡ {fullName}፣ {speciality}",
+  "doctorRating": "ዶክተር {fullName}፣ {speciality}፣ 4.5 ደረጃ",
+  "doctorsLabel": "ዶክተሮች",
+  "emailLabel": "ኢሜይል",
+  "ensureStableConnection": "የተረጋጋ የበይነመረብ ግንኙነት እንዳለዎት ያረጋግጡ",
+  "errorJoiningCall": "ጥሪ መቀላቀል ላይ ስህተት",
+  "errorPrefix": "ስህተት",
+  "errorSendingRequest": "ጥያቄ መላክ ላይ ስህተት፡ {error}",
+  "findQuietSpace": "ለእርስዎ ምክክር ጸጥ ያለ፣ የግል ቦታ ያግኙ",
+  "haveQuestionsReady": "ለዶክተሩ ጥያቄዎችዎን ያዘጋጁ",
+  "inCall": "በጥሪ ውስጥ",
+  "invalidDateFormat": "የተሳሳተ የቀን ቅርጸት",
+  "joinNow": "አሁን ይቀላቀሉ",
+  "joinVideoCall": "የቪዲዮ ጥሪ ይቀላቀሉ",
+  "joining": "በመቀላቀል ላይ...",
+  "joiningCall": "ጥሪ በመቀላቀል ላይ...",
+  "later": "በኋላ",
+  "meetingInformation": "የስብሰባ መረጃ",
+  "motherAppTitle": "የእናቶች መተግበሪያ",
+  "navigateToAppointments": "ወደ ቀጠሮዎች ገፅ ይሂዱ",
+  "navigateToBooking": "ወደ መያዣ ገፅ ይሂዱ",
+  "navigateToDoctors": "ወደ ዶክተሮች ገፅ ይሂዱ",
+  "newMeetingLinkAvailable": "አዲስ የስብሰባ አገናኝ ይገኛል",
+  "newMeetingLinkMessage": "አዲስ የቪዲዮ ኮንፈረንስ አገናኝ ይገኛል። በአዲሱ አገናኝ መቀላቀል ይፈልጋሉ?",
+  "noAcceptedAppointments": "ምንም ተቀባይነት ያላቸው ቀጠሮዎች የሉም።\nተቀባይነት ያገኙ ቀጠሮዎች እዚህ ይታያሉ።",
+  "noAvailabilityFound": "ለዚህ ዶክተር ምንም መገኘት አልተገኘም።",
+  "noDateAvailable": "ምንም ቀን የለም",
+  "noDescriptionAvailable": "ምንም መግለጫ የለም",
+  "noDoctorsAvailable": "ምንም ዶክተሮች የሉም",
+  "noPendingAppointments": "ምንም በመጠባበቅ ላይ ያሉ ቀጠሮዎች የሉም።\nየሚልኳቸው ጥያቄዎች እዚህ ይታያሉ።",
+  "noRejectedAppointments": "ምንም ውድቅ የተደረጉ ቀጠሮዎች የሉም።\nውድቅ የተደረጉ ቀጠሮዎች እዚህ ይታያሉ።",
+  "notAvailable": "አይገኝም",
+  "notConnected": "አልተገናኘም - ቀጠሮዎች ላይላኩ ይችላሉ",
+  "notSpecified": "አልተገለጸም",
+  "okLabel": "እሺ",
+  "pageTitleAppointments": "የእኔ ቀጠሮዎች",
+  "phoneLabel": "ስልክ",
+  "pleaseSelectDateTime": "እባክዎ ቀን እና ሰዓት ይምረጡ",
+  "ratingLabel": "4.5 (245 ግምገማዎች)",
+  "readyToJoin": "መቀላቀል ዝግጁ ነው",
+  "refreshAppointmentsTooltip": "ቀጠሮዎችን አድስ",
+  "requestAppointment": "ቀጠሮ ጠይቅ",
+  "requestSent": "የቀጠሮ ጥያቄ ተልኳል! የዶክተር ፈቃድ በመጠባበቅ ላይ።",
+  "rescheduleAppointment": "ቀጠሮ እንደገና ማስያዝ",
+  "selectDateTime": "ቀን እና ሰዓት ይምረጡ",
+  "specialityLabel": "ልዩ ሙያ፦ {speciality}",
+  "startCall": "ጥሪ ይጀምሩ",
+  "startVideoCall": "ቪዲዮ ጥሪ ይጀምሩ",
+  "statusAccepted": "ተቀባይነት አግኝቷል",
+  "statusCancelled": "ተሰርዟል",
+  "statusPending": "በመጠባበቅ ላይ",
+  "statusRejected": "ተቀባይነት አላገኘም",
+  "timeZoneLabel": "ሰዓት ሰቅ {timeZone}",
+  "upcomingAppointments": "የቀጠሮ ቀናት",
+  "viewProfile": "መገለጫ ይመልከቱ",
+  "waitingForDoctor": "ዶክተሩን እየጠበቅን ነው።",
+  "yourMeetingLink": "የእርስዎ የስብሰባ አገናኝ",
+  "@deliveredLabel": {
+    "placeholders": {
+      "date": {
+        "type": "Object"
+      }
+    }
+  },
+  "@errorLabel": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "@greeting": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@failedToLoadProfile": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "@errorLoadingEntries": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "@errorUpdatingFavorite": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "@postedAt": {
+    "placeholders": {
+      "date": {
+        "type": "Object"
+      }
+    }
+  },
+  "@weekLabelWithNumber": {
+    "placeholders": {
+      "week": {
+        "type": "int"
+      }
+    }
+  },
+  "@errorLoadingData": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "@failedToUpdateProfile": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "@errorPickingImage": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "@weightUnit": {
+    "placeholders": {
+      "unit": {
+        "type": "String"
+      }
+    }
+  },
+  "@heightUnit": {
+    "placeholders": {
+      "unit": {
+        "type": "String"
+      }
+    }
+  },
+  "@healthCondition": {
+    "placeholders": {
+      "condition": {
+        "type": "String"
+      }
+    }
+  },
+  "@errorMarkingAsSeen": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "@fallbackTipTitle": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "@relevanceLabelWithValue": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "@bpLowRecommendation": {
+    "placeholders": {
+      "bpSys": {
+        "type": "int"
+      },
+      "bpDia": {
+        "type": "int"
+      }
+    }
+  },
+  "@bpHighRecommendation": {
+    "placeholders": {
+      "bpSys": {
+        "type": "int"
+      },
+      "bpDia": {
+        "type": "int"
+      }
+    }
+  },
+  "@bpNormalRecommendation": {
+    "placeholders": {
+      "bpSys": {
+        "type": "int"
+      },
+      "bpDia": {
+        "type": "int"
+      }
+    }
+  },
+  "@hrLowRecommendation": {
+    "placeholders": {
+      "hr": {
+        "type": "int"
+      }
+    }
+  },
+  "@hrHighRecommendation": {
+    "placeholders": {
+      "hr": {
+        "type": "int"
+      }
+    }
+  },
+  "@hrNormalRecommendation": {
+    "placeholders": {
+      "hr": {
+        "type": "int"
+      }
+    }
+  },
+  "@tempLowRecommendation": {
+    "placeholders": {
+      "temp": {
+        "type": "double"
+      }
+    }
+  },
+  "@tempHighRecommendation": {
+    "placeholders": {
+      "temp": {
+        "type": "double"
+      }
+    }
+  },
+  "@tempNormalRecommendation": {
+    "placeholders": {
+      "temp": {
+        "type": "double"
+      }
+    }
+  },
+  "@weightLowRecommendation": {
+    "placeholders": {
+      "weight": {
+        "type": "double"
+      }
+    }
+  },
+  "@weightHighRecommendation": {
+    "placeholders": {
+      "weight": {
+        "type": "double"
+      }
+    }
+  },
+  "@weightNormalRecommendation": {
+    "placeholders": {
+      "weight": {
+        "type": "double"
+      }
+    }
+  },
+  "@bpSysIncreasedRecommendation": {
+    "placeholders": {
+      "prevBpSys": {
+        "type": "int"
+      },
+      "bpSys": {
+        "type": "int"
+      }
+    }
+  },
+  "@hrIncreasedRecommendation": {
+    "placeholders": {
+      "prevHr": {
+        "type": "int"
+      },
+      "hr": {
+        "type": "int"
+      }
+    }
+  },
+  "@weightIncreasedRecommendation": {
+    "placeholders": {
+      "prevWeight": {
+        "type": "double"
+      },
+      "weight": {
+        "type": "double"
+      }
+    }
+  },
+  "@allVitalsNormalRecommendation": {
+    "placeholders": {
+      "bpSys": {
+        "type": "int"
+      },
+      "bpDia": {
+        "type": "int"
+      },
+      "hr": {
+        "type": "int"
+      },
+      "temp": {
+        "type": "double"
+      },
+      "weight": {
+        "type": "double"
+      }
+    }
+  },
+  "@tooltipBpSys": {
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "@tooltipHr": {
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "@tooltipTemp": {
+    "placeholders": {
+      "value": {
+        "type": "double"
+      }
+    }
+  },
+  "@tooltipWeight": {
+    "placeholders": {
+      "value": {
+        "type": "double"
+      }
+    }
+  },
+  "@noNamesAvailable": {
+    "placeholders": {
+      "category": {
+        "type": "String"
+      }
+    }
+  },
+  "@errorDeletingNote": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "@appointmentWithDoctor": {
+    "placeholders": {
+      "doctorName": {
+        "type": "String"
+      }
+    }
+  },
+  "@bookAppointmentWith": {
+    "placeholders": {
+      "fullName": {
+        "type": "String"
+      }
+    }
+  },
+  "@callEnded": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "@doctorProfile": {
+    "placeholders": {
+      "fullName": {
+        "type": "String"
+      },
+      "speciality": {
+        "type": "String"
+      }
+    }
+  },
+  "@doctorRating": {
+    "placeholders": {
+      "fullName": {
+        "type": "String"
+      },
+      "speciality": {
+        "type": "String"
+      }
+    }
+  },
+  "@errorSendingRequest": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "@specialityLabel": {
+    "placeholders": {
+      "speciality": {
+        "type": "String"
+      }
+    }
+  },
+  "@timeZoneLabel": {
+    "placeholders": {
+      "timeZone": {
+        "type": "String"
+      }
+    }
+  },
+    "retryButton": "እንደገና ሞክር",
+    "@retryButton": {
+      "description": "Label for the retry button in error messages"
+    },
+    
+      "searchNotesHint": "የእርስዎን ማስታወሻዎች ይፈልጉ...",
+      "@searchNotesHint": {
+        "description": "Hint text for the search bar in the notes section"
+      },
+
+      "pleaseLogIn": "እባክዎ ለመቀጠል ይግቡ",
+  "@pleaseLogIn": {
+    "description": "Message shown when a user is not logged in"
+  },
+  "noteDeleted": "ማስታወሻ በተሳካ ሁኔታ ተሰርዟል",
+  "@noteDeleted": {
+    "description": "Confirmation message when a note is deleted"
+  },
+  "appName": "አዴ እርዳታ መተግበሪያ",
+  "@appName": {
+    "description": "Name of the application displayed on the splash screen"
+  },
+  "noInternetTitle": "የበይነመረብ ግንኙነት የለም",
+  "@noInternetTitle": {
+    "description": "Title of the dialog shown when there is no internet connection"
+  },
+  "noInternetMessage": "እባክዎ የበይነመረብ ግኍኙነትዎን ያረጋግጡ እና እንደገና ይሞክሩ።",
+  "@noInternetMessage": {
+    "description": "Message shown in the dialog when there is no internet connection"
+  },
+  "genderFemale": "ሴት",
+  "@genderFemale": {
+    "description": "Label for the female gender option"
+  },
+  "genderMale": "ወንድ",
+  "@genderMale": {
+    "description": "Label for the male gender option"
+  },
+  "genderOther": "ሌላ",
+  "@genderOther": {
+    "description": "Label for the other gender option"
+  },
+  "editProfile": "መገለጫ አርትዕ",
+  "@editProfile": {
+    "description": "Label for the option to edit the user profile"
+  },
+  "themeMode": "ገጽታ ሁኔታ",
+  "@themeMode": {
+    "description": "Label for the theme mode toggle (light/dark)"
+  },
+  "consultationFee": "የምክር ክፍያ",
+  "@consultationFee": {
+    "description": "Label for the consultation fee of a doctor"
+  },
+  "unknownName": "ያልታወቀ ስም",
+  "@unknownName": {
+    "description": "Fallback text for when a doctor's name is not available"
+  },
+  "welcomeMessage": "ወደ አዴ እርዳታ መተግበሪያ እንኳን ደህና መጡ!",
+  "@welcomeMessage": {
+    "description": "Welcome message displayed on the calendar page"
+  },
+  "testCameraMic": "ካሜራዎን እና ማይክሮፎንዎን ይሞክሩ",
+  "@testCameraMic": {
+    "description": "Instruction to test camera and microphone before joining a video call"
+  },
+  "yourDoctorWillJoin": "ዶክተርዎ በቅርቡ ወደ ስብሰባው ይቀላቀላል",
+  "@yourDoctorWillJoin": {
+    "description": "Message indicating that the doctor will join the video call soon"
+  },
+  "roomName": "ክፍል: {roomName}",
+  "@roomName": {
+    "description": "Label for the meeting room name",
+    "placeholders": {
+      "roomName": {
+        "type": "Object"
+      }
+    }
+  },
+  "statusLabel": "ሁኔታ: {status}",
+  "@statusLabel": {
+    "description": "Label for the appointment status",
+    "placeholders": {
+      "status": {
+        "type": "Object"
+      }
+    }
+  },
+  "scheduledFor": "የተያዘለት: {date}",
+  "@scheduledFor": {
+    "description": "Label for the scheduled date and time of the appointment",
+    "placeholders": {
+      "date": {
+        "type": "Object"
+      }
+    }
+  },
+  "videoConsultationTitle": "የቪዲዮ ምክክር",
+  "@videoConsultationTitle": {
+    "description": "Title for the video consultation page"
+  },
+  "videoConsultationMessage": "የእርስዎ የቪዲዮ ምክክር ለመጀመር ዝግጁ ነው።",
+  "@videoConsultationMessage": {
+    "description": "Message shown when an appointment is accepted and ready for video consultation"
+  },
+  "tabPending": "በመጠባበቅ ላይ ({count})",
+  "@tabPending": {
+    "description": "Label for the pending appointments tab with the number of appointments",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "tabAccepted": "ተቀባይነት ያለው ({count})",
+  "@tabAccepted": {
+    "description": "Label for the accepted appointments tab with the number of appointments",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "tabRejected": "ውድቅ የተደረገ ({count})",
+  "@tabRejected": {
+    "description": "Label for the rejected appointments tab with the number of appointments",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "statusPrefix": "ሁኔታ: {status}",
+  "@statusPrefix": {
+    "description": "Prefix for displaying the connection status",
+    "placeholders": {
+      "status": {
+        "type": "String"
+      }
+    }
+  },
+  "retryLabel": "እንደገና ሞክር",
+  "@retryLabel": {
+    "description": "Label for the retry button when reconnecting"
+  },
+  "errorFetchingUserData": "የተጠቃሚ መረጃ ማግኘት ላይ ስህተት: {error}",
+  "@errorFetchingUserData": {
+    "description": "Error message shown when fetching user data fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "errorFetchingComments": "አስተያየቶችን ማግኘት ላይ ስህተት: {error}",
+  "@errorFetchingComments": {
+    "description": "Error message shown when fetching comments fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "commentCannotBeEmpty": "አስተያየት ባዶ ሊሆን አይችልም",
+  "@commentCannotBeEmpty": {
+    "description": "Error message shown when a comment is empty or user is not logged in"
+  },
+  "errorAddingComment": "አስተያየት መጨመር ላይ ስህተት: {error}",
+  "@errorAddingComment": {
+    "description": "Error message shown when adding a comment fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "commentDeletedSuccessfully": "አስተያየት በተሳካ ሁኔታ ተሰርዟል",
+  "@commentDeletedSuccessfully": {
+    "description": "Success message shown when a comment is deleted"
+  },
+  "errorDeletingComment": "አስተያየት መሰረዝ ላይ ስህተት: {error}",
+  "@errorDeletingComment": {
+    "description": "Error message shown when deleting a comment fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "postDetailTitle": "የመልእክት ዝርዝሮች",
+  "@postDetailTitle": {
+    "description": "Title for the post detail screen"
+  },
+  "profileOf": "የ{fullName} መገለጫ",
+  "@profileOf": {
+    "description": "Accessibility label for the profile avatar of the post author",
+    "placeholders": {
+      "fullName": {
+        "type": "String"
+      }
+    }
+  },
+  "likesCountText": "{count} መውደዶች",
+  "@likesCountText": {
+    "description": "Text displaying the number of likes for a post",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "commentsCountText": "{count} አስተያየቶች",
+  "@commentsCountText": {
+    "description": "Text displaying the number of comments for a post",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "commentBy": "አስተያየት በ{fullName}",
+  "@commentBy": {
+    "description": "Accessibility label for a comment by a specific user",
+    "placeholders": {
+      "fullName": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteCommentBy": "አስተያየት በ{fullName} ሰርዝ",
+  "@deleteCommentBy": {
+    "description": "Accessibility label for the delete button of a comment by a specific user",
+    "placeholders": {
+      "fullName": {
+        "type": "String"
+      }
+    }
+  },
+  "noCommentsYet": "እስካሁን ምንም አስተያየቶች የሉም",
+  "@noCommentsYet": {
+    "description": "Message shown when there are no comments on a post"
+  },
+  "writeCommentHint": "አስተያየት ይፃፉ...",
+  "@writeCommentHint": {
+    "description": "Hint text for the comment input field"
+  },
+  "sendCommentTooltip": "አስተያየት ላክ",
+  "@sendCommentTooltip": {
+    "description": "Tooltip for the send comment button"
+  },
+  "unableToLoadChat": "ውይይት መጫን አልተቻለም",
+  "@unableToLoadChat": {
+    "description": "Error message shown when the chat fails to load"
+  },
+  "chatServiceUnavailable": "የውይይት አገልግሎት በአሁኑ ጊዜ አይገኝም",
+  "@chatServiceUnavailable": {
+    "description": "Error message shown when the chat database table is not found"
+  },
+  "pleaseLogInChat": "እባክዎ ውይይት ለመድረስ ይግቡ",
+  "@pleaseLogInChat": {
+    "description": "Error message shown when the user is not authenticated for chat"
+  },
+  "databaseError": "የውሂብ ጎታ ስህተት: {message}",
+  "@databaseError": {
+    "description": "Error message for database-related issues",
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "networkError": "የአውታረ መረብ ስህተት፣ እባክዎ ግንኙነትዎን ያረጋግጡ",
+  "@networkError": {
+    "description": "Error message shown when a network issue occurs"
+  },
+  "failedToSendMessage": "መልእክት መላክ አልተሳካም: {error}",
+  "@failedToSendMessage": {
+    "description": "Error message shown when sending a message fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "startChatting": "{receiverName} ጋር ውይይት ይጀምሩ",
+  "@startChatting": {
+    "description": "Message shown when there are no messages in the chat",
+    "placeholders": {
+      "receiverName": {
+        "type": "String"
+      }
+    }
+  },
+  "chatUnavailableHint": "ውይይት በአሁኑ ጊዜ አይገኝም",
+  "@chatUnavailableHint": {
+    "description": "Hint text for the message input field when chat is unavailable"
+  },
+  "typeMessageHint": "መልእክት ይፃፉ...",
+  "@typeMessageHint": {
+    "description": "Hint text for the message input field"
+  },
+  "sendMessageTooltip": "መልእክት ላክ",
+  "@sendMessageTooltip": {
+    "description": "Tooltip for the send message button"
+  },
+  "postBy": "መልእክት በ{fullName}",
+  "@postBy": {
+    "description": "Accessibility label for a post by a specific user",
+    "placeholders": {
+      "fullName": {
+        "type": "String"
+      }
+    }
+  },
+  "editPost": "መልእክት አርትዕ",
+  "@editPost": {
+    "description": "Label for the edit post option in the popup menu"
+  },
+  "deletePost": "መልእክት ሰርዝ",
+  "@deletePost": {
+    "description": "Label for the delete post option in the popup menu"
+  },
+  "unlikePost": "መልእክት አለመውደድ",
+  "@unlikePost": {
+    "description": "Accessibility label for unliking a post"
+  },
+  "likePost": "መልእክት ውደድ",
+  "@likePost": {
+    "description": "Accessibility label for liking a post"
+  },
+  "commentOnPost": "በመልእክት ላይ አስተያየት ስጥ",
+  "@commentOnPost": {
+    "description": "Accessibility label for commenting on a post"
+  },
+  "commentPost": "አስተያየት",
+  "@commentPost": {
+    "description": "Label for the comment button on a post"
+  },
+  "imageSizeError": "የምስል መጠን ከ5ሜባ በላይ ነው",
+  "@imageSizeError": {
+    "description": "Error message shown when the selected image is too large"
+  },
+  "emptyContentError": "የልጥፍ ይዘት ባዶ መሆን አይችልም",
+  "@emptyContentError": {
+    "description": "Error message shown when the post content is empty"
+  },
+  "userDataNotLoaded": "የተጠቃሚ ውሂብ አልተጫነም፣ እባክዎ እንደገና ይሞክሩ",
+  "@userDataNotLoaded": {
+    "description": "Error message shown when user data fails to load"
+  },
+  "errorSavingPost": "ልጥፍ ማስቀመጥ ላይ ስህተት: {error}",
+  "@errorSavingPost": {
+    "description": "Error message shown when saving a post fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closeTooltip": "ዝጋ",
+  "@closeTooltip": {
+    "description": "Tooltip for the close button"
+  },
+  "editPostTitle": "ልጥፍ አርትዕ",
+  "@editPostTitle": {
+    "description": "Title for the edit post screen"
+  },
+  "postButton": "ለጥፍ",
+  "@postButton": {
+    "description": "Label for the post button when creating a new post"
+  },
+  "updateButton": "አዘምን",
+  "@updateButton": {
+    "description": "Label for the update button when editing a post"
+  },
+  "removeImageTooltip": "ምስል አስወግድ",
+  "@removeImageTooltip": {
+    "description": "Tooltip for the remove image button"
+  },
+  "addImageTooltip": "ምስል ጨምር",
+  "@addImageTooltip": {
+    "description": "Tooltip for the add image button"
+  },
+  "createPostTitle": "ልጥፍ ፍጠር",
+  "@createPostTitle": {
+    "description": "Title for the create post screen"
+  },
+    "errorFetchingUser": "የተጠቃሚ ውሂብ ማግኘት ላይ ስህተት: {error}",
+  "@errorFetchingUser": {
+    "description": "Error message shown when fetching user data fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "searchPosts": "ልጥፎችን ፈልግ",
+  "@searchPosts": {
+    "description": "Tooltip for the search button in the community screen"
+  },
+  "createNewPost": "አዲስ ልጥፍ ፍጠር",
+  "@createNewPost": {
+    "description": "Accessibility label for the create post button"
+  },
+  "welcomeBack": "እንኳን ተመልሰሃል",
+  "@welcomeBack": {
+    "description": "Welcome message displayed on the login page"
+  },
+  "forgetPassword": "የይለፍ ቃል ረሳህው?",
+  "@forgetPassword": {
+    "description": "Label for the forget password link"
+  },
+  "logIn": "ግባ",
+  "@logIn": {
+    "description": "Label for the login button"
+  },
+  "noAccount": "መለያ የለህም?",
+  "@noAccount": {
+    "description": "Prompt for users without an account"
+  },
+  "register": "መዝግብ",
+  "@register": {
+    "description": "Label for the register link"
+  },
+  "signInWithGoogle": "በGoogle ግባ",
+  "@signInWithGoogle": {
+    "description": "Label for the Google Sign-In button"
+  },
+  "emptyFieldsError": "እባክህ ኢሜይል እና የይለፍ ቃል አስገባ",
+  "@emptyFieldsError": {
+    "description": "Error message when email or password fields are empty"
+  },
+  "loginFailedError": "መግባት አልተሳካም። እባክህ እንደገና ሞክር",
+  "@loginFailedError": {
+    "description": "Error message when login attempt fails"
+  },
+  "googleSignInCancelledError": "Google መግባት ተሰርዟል",
+  "@googleSignInCancelledError": {
+    "description": "Error message when Google Sign-In is cancelled"
+  },
+  "googleSignInFailedError": "Google መግባት አልተሳካም",
+  "@googleSignInFailedError": {
+    "description": "Error message when Google Sign-In fails"
+  },
+  "googleAuthFailedError": "Google ማረጋገጫ አልተሳካም",
+  "@googleAuthFailedError": {
+    "description": "Error message when Google authentication fails"
+  },
+  "invalidEmailError": "እባክህ ትክክለኛ ኢሜይል አድራሻ አስገባ",
+  "@invalidEmailError": {
+    "description": "Error message when email format is invalid"
+  },
+  "invalidPasswordError": "የይለፍ ቃል ቢያንስ 6 ቁምፊዎች መሆን አለበት",
+  "@invalidPasswordError": {
+    "description": "Error message when password is too short"
+  },
+ 
+  "passwordLabel": "የይለፍ ቃል",
+  "@passwordLabel": {
+    "description": "Label for the password input field"
+  },
+  "welcomeRegister": "እንኳን ደህና መጣህ",
+  "@welcomeRegister": {
+    "description": "Welcome message displayed on the register page"
+  },
+  "assistMessage": "እኛ እዚህ ነን፣ ለመርዳት!!!",
+  "@assistMessage": {
+    "description": "Assistance message displayed below the welcome text on the register page"
+  },
+  "emailLabel": "ኢሜይል አድራሻ",
+  "@emailLabel": {
+    "description": "Label for the email input field on the register page"
+  },
+  "passwordLabel": "የይለፍ ቃል",
+  "@passwordLabel": {
+    "description": "Label for the password input field on the register page"
+  },
+  "confirmPasswordLabel": "የይለፍ ቃል አረጋግጥ",
+  "@confirmPasswordLabel": {
+    "description": "Label for the confirm password input field on the register page"
+  },
+  "signUpButton": "ተመዝገብ",
+  "@signUpButton": {
+    "description": "Label for the sign-up button"
+  },
+  "alreadyHaveAccount": "መለያ አለህ?",
+  "@alreadyHaveAccount": {
+    "description": "Prompt for users who already have an account"
+  },
+  "loginLink": "ግባ",
+  "@loginLink": {
+    "description": "Label for the login link"
+  },
+  "signUpWithGoogle": "በGoogle ተመዝገብ",
+  "@signUpWithGoogle": {
+    "description": "Label for the Google Sign-Up button"
+  },
+  "passwordsDoNotMatchError": "የይለፍ ቃሎች አይዛመዱም!",
+  "@passwordsDoNotMatchError": {
+    "description": "Error message when passwords do not match"
+  },
+  "googleSignUpCancelledError": "Google መመ��ገብ ተሰርዟል።",
+  "@googleSignUpCancelledError": {
+    "description": "Error message when Google Sign-Up is cancelled"
+  },
+  "googleSignUpFailedError": "Google መመዝገብ አልተሳካም። እባክህ እንደገና ሞክር።",
+  "@googleSignUpFailedError": {
+    "description": "Error message when Google Sign-Up fails"
+  },
+  "googleSignUpTokenError": "Google መመዝገብ ስህተት፡ ቶከኖች ጠፍተዋል።",
+  "@googleSignUpTokenError": {
+    "description": "Error message when Google Sign-Up fails due to missing tokens"
+  },
+  "signUpFailedError": "መመዝገብ አልተሳካም። እባክህ እንደገና ሞክር።",
+  "@signUpFailedError": {
+    "description": "Error message when signup attempt fails"
+  },
+  "signUpSuccess": "መመዝገብ ተሳክቷል!",
+  "@signUpSuccess": {
+    "description": "Success message when signup is successful"
+  },
+  "signUpError": "ስህተት፡ {error}",
+  "@signUpError": {
+    "description": "Generic error message for signup with placeholder",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+
+  "resetPasswordTitle": "የይለፍ ቃል ዳግም አስጀምር",
+  "@resetPasswordTitle": {
+    "description": "Title for the reset password page app bar"
+  },
+  "resetPasswordHeader": "የይለፍ ቃልህን ዳግም አስጀምር",
+  "@resetPasswordHeader": {
+    "description": "Header text for the reset password page"
+  },
+  "resetPasswordDescription": "የዳግም አስጀምር አገናኝ ለመቀበል ኢሜይልህን አስገባ",
+  "@resetPasswordDescription": {
+    "description": "Description prompting the user to enter their email for a reset link"
+  },
+  "resetLinkSentDescription": "የዳግም አስጀምር አገናኝ ለማግኘት ኢሜይልህን ፈትሽ",
+  "@resetLinkSentDescription": {
+    "description": "Description shown after the reset email is sent"
+  },
+  "sendResetLinkButton": "የዳግም አስጀምር አገናኝ ላክ",
+  "@sendResetLinkButton": {
+    "description": "Label for the button to send the reset link"
+  },
+  "emailSentButton": "ኢሜይል ተልኳል",
+  "@emailSentButton": {
+    "description": "Label for the button after the reset email is sent"
+  },
+  "emptyEmailError": "እባክህ ኢሜይል አድራሻህን አስገባ",
+  "@emptyEmailError": {
+    "description": "Error message when the email field is empty"
+  },
+  "resetEmailSentSuccess": "የይለፍ ቃል ዳግም አስጀምር ኢሜይል ወደ {email} ተልኳል",
+  "@resetEmailSentSuccess": {
+    "description": "Success message when the reset email is sent",
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "resetPasswordError": "ስህተት፡ {error}",
+  "@resetPasswordError": {
+    "description": "Generic error message for password reset with placeholder",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "welcomePageTitle1": "አዴ እርግዝና እና የልጅ እንክብካቤ መተግበሪያ",
+  "@welcomePageTitle1": {
+    "description": "Title for the first onboarding page"
+  },
+  "welcomePageContent1": "እንኳን ወደ አዴ በደህና መጡ፣ ለአስተማማኝ እና ጤናማ እርግዝና እና የልጅ እንክብካቤ ጉዞ የእርስዎ ታማኝ አጋር።",
+  "@welcomePageContent1": {
+    "description": "Content for the first onboarding page"
+  },
+  "welcomePageContent2": "እርግዝናዎን እና ድህረ-ወሊድ እድገትን በጤና ሁኔታ መከታተያ እና የተሻሻሉ ምክሮች መሣሪያዎች ይከታተሉ።",
+  "@welcomePageContent2": {
+    "description": "Content for the second onboarding page"
+  },
+  "welcomePageContent3": "በእናቶች ጤና ላይ የትምህርት መረጃዎችን ይድረሱ፣ ጽሑፎችን፣ ሳምንታዊ ምክሮችን እና የዕለታዊ ማሳወቂያዎችን ጨምሮ።",
+  "@welcomePageContent3": {
+    "description": "Content for the third onboarding page"
+  },
+  "welcomePageContent4": "ከተጠቃሚዎች ማህበረሰብ ጋር ይገናኙ፣ ልምዶችን ያካፍሉ እና ድጋፍ ያግኙ።",
+  "@welcomePageContent4": {
+    "description": "Content for the fourth onboarding page"
+  },
+  "welcomePageContent5": "ለእርግዝና እና የልጅ እንክብካቤ ጥያቄዎች ፈጣን ምላሾች እና መመሪያ ለማግኘት የእኛን ቻትቦት ይጠቀሙ።",
+  "@welcomePageContent5": {
+    "description": "Content for the fifth onboarding page"
+  },
+  "skipButton": "ዝለል",
+  "@skipButton": {
+    "description": "Label for the skip button on the onboarding page"
+  },
+  "nextButton": "ቀጣይ",
+  "@nextButton": {
+    "description": "Label for the next button on the onboarding page"
+  },
+  "getStartedButton": "ጀምር",
+  "@getStartedButton": {
+    "description": "Label for the get started button on the final onboarding page"
+  },
+  "skipSemantics": "መግቢያውን ዝለል",
+  "@skipSemantics": {
+    "description": "Semantics label for the skip button"
+  },
+  "nextSemantics": "ቀጣይ ገፅ",
+  "@nextSemantics": {
+    "description": "Semantics label for the next button"
+  },
+  "getStartedSemantics": "ጀምር",
+  "@getStartedSemantics": {
+    "description": "Semantics label for the get started button"
+  },
+  "onboardingPageSemantics": "መግቢያ ገፅ {pageNumber}",
+  "@onboardingPageSemantics": {
+    "description": "Semantics label for each onboarding page",
+    "placeholders": {
+      "pageNumber": {
+        "type": "int"
+      }
+    }
+  },
+  "motherFormTitle": "እንኳን ደህና መጡ፣ እባክዎ የሚከተለውን ቅጽ ይሙሉ!",
+  "@motherFormTitle": {
+    "description": "Title for the mother form page app bar"
+  },
+  "fullNameLabel": "ሙሉ ስም",
+  "@fullNameLabel": {
+    "description": "Label for the full name input field"
+  },
+  "fullNameRequiredError": "ሙሉ ስም ያስፈልጋል",
+  "@fullNameRequiredError": {
+    "description": "Error message when full name is empty"
+  },
+  "selectGenderLabel": "ፆታ ይምረጡ",
+  "@selectGenderLabel": {
+    "description": "Label for the gender selection section"
+  },
+  "maleGenderOption": "ወንድ",
+  "@maleGenderOption": {
+    "description": "Label for the male gender option"
+  },
+  "femaleGenderOption": "ሴት",
+  "@femaleGenderOption": {
+    "description": "Label for the female gender option"
+  },
+  "selectAgeLabel": "ዕድሜዎን ይምረጡ",
+  "@selectAgeLabel": {
+    "description": "Label for the age selection section"
+  },
+  "selectedAgeLabel": "የተመረጠው ዕድሜ፡ {age}",
+  "@selectedAgeLabel": {
+    "description": "Label showing the selected age with placeholder",
+    "placeholders": {
+      "age": {
+        "type": "int"
+      }
+    }
+  },
+  "enterHeightLabel": "ቁመትዎን ያስገቡ",
+  "@enterHeightLabel": {
+    "description": "Label for the height input section"
+  },
+  "heightRequiredError": "ቁመት ያስፈልጋል",
+  "@heightRequiredError": {
+    "description": "Error message when height is empty"
+  },
+  "heightInvalidError": "ትክክለኛ ቁጥር ያስገቡ",
+  "@heightInvalidError": {
+    "description": "Error message when height is not a valid number"
+  },
+  "bloodPressureLabel": "የደም ግፊት (ለምሳሌ፣ 120/80)",
+  "@bloodPressureLabel": {
+    "description": "Label for the blood pressure input field"
+  },
+  "bloodPressureRequiredError": "የደም ግፊት ያስፈልጋል",
+  "@bloodPressureRequiredError": {
+    "description": "Error message when blood pressure is empty"
+  },
+  "bloodPressureInvalidError": "ትክክለኛ የደም ግፊት ያስገቡ (ለምሳሌ፣ 120/80)",
+  "@bloodPressureInvalidError": {
+    "description": "Error message when blood pressure format is invalid"
+  },
+  "enterWeightLabel": "ክብደትዎን ያስገቡ",
+  "@enterWeightLabel": {
+    "description": "Label for the weight input section"
+  },
+  "weightRequiredError": "ክብደት ያስፈልጋል",
+  "@weightRequiredError": {
+    "description": "Error message when weight is empty"
+  },
+  "weightInvalidError": "ትክክለኛ ቁጥር ያስገቡ",
+  "@weightInvalidError": {
+    "description": "Error message when weight is not a valid number"
+  },
+  "pregnancyStartDateLabel": "የእርግዝና መጀመሪያ ቀን",
+  "@pregnancyStartDateLabel": {
+    "description": "Label for the pregnancy start date input field"
+  },
+  "pregnancyStartDateNotSet": "አልተዘጋጀም",
+  "@pregnancyStartDateNotSet": {
+    "description": "Text shown when pregnancy start date is not set"
+  },
+  "pregnancyStartDateQuestion": "መቼ ነው እርጉዝ የሆኑት?",
+  "@pregnancyStartDateQuestion": {
+    "description": "Label for the pregnancy start date section"
+  },
+  "pregnancyDurationLabel": "የእርግዝና ጊዜ፡ {weeks} ሳምንታት እና {days} ቀናት",
+  "@pregnancyDurationLabel": {
+    "description": "Label showing the pregnancy duration with placeholders",
+    "placeholders": {
+      "weeks": {
+        "type": "int"
+      },
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "healthConditionsLabel": "የሚመለከታቸውን የጤና ሁኔታዎች ይምረጡ",
+  "@healthConditionsLabel": {
+    "description": "Label for the health conditions selection section"
+  },
+  "healthConditionDiabetes": "ስኳር በሽታ",
+  "@healthConditionDiabetes": {
+    "description": "Label for the diabetes health condition option"
+  },
+  "healthConditionHypertension": "ከፍተኛ የደም ግፊት",
+  "@healthConditionHypertension": {
+    "description": "Label for the hypertension health condition option"
+  },
+  "healthConditionAsthma": "አስም",
+  "@healthConditionAsthma": {
+    "description": "Label for the asthma health condition option"
+  },
+  "healthConditionHeartDisease": "የልብ በሽታ",
+  "@healthConditionHeartDisease": {
+    "description": "Label for the heart disease health condition option"
+  },
+  "healthConditionThyroidIssues": "የታይሮይድ ችግሮች",
+  "@healthConditionThyroidIssues": {
+    "description": "Label for the thyroid issues health condition option"
+  },
+  "healthConditionOther": "ሌላ",
+  "@healthConditionOther": {
+    "description": "Label for the other health condition option"
+  },
+  "healthIssueDescriptionLabel": "የጤና ችግርዎን ይግለፁ",
+  "@healthIssueDescriptionLabel": {
+    "description": "Label for the health issue description input field"
+  },
+  "healthIssueHint": "የጤና ታሪክዎን ወይም ችግሮችዎን እዚህ ይግለፁ...",
+  "@healthIssueHint": {
+    "description": "Hint text for the health issue description input field"
+  },
+  "submitButton": "አስገባ",
+  "@submitButton": {
+    "description": "Label for the submit button"
+  },
+  "confirmSubmissionTitle": "የቅጽ ማስገባት አረጋግጥ",
+  "@confirmSubmissionTitle": {
+    "description": "Title for the submission confirmation dialog"
+  },
+  "confirmSubmissionMessage": "ቅጹን ማስገባት እንደሚፈልጉ እርግጠኛ ነዎት?",
+  "@confirmSubmissionMessage": {
+    "description": "Message in the submission confirmation dialog"
+  },
+  "cancelButton": "መሰረዝ",
+  "@cancelButton": {
+    "description": "Label for the cancel button in the confirmation dialog"
+  },
+  "requiredFieldsError": "እባክዎ ሁሉንም አስፈላጊ መስኮች ይሙሉ!",
+  "@requiredFieldsError": {
+    "description": "Error message when required fields are not filled"
+  },
+  "invalidNumberError": "እባክዎ ለክብደት እና ቁመት ትክክለኛ ቁጥሮችን ያስገቡ!",
+  "@invalidNumberError": {
+    "description": "Error message when weight or height is not a valid number"
+  },
+  "formSubmitSuccess": "ቅጹ በተሳካ ሁኔታ ተመዝግቧል!",
+  "@formSubmitSuccess": {
+    "description": "Success message when the form is submitted"
+  },
+  "formSubmitError": "ቅጽ ማስገባት ላይ ስህተት፡ {error}",
+  "@formSubmitError": {
+    "description": "Error message when form submission fails with placeholder",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "popupNotifications": "ብቅ-ወጪ ማሳወቂያዎች",
+  "availableHealthProfessionals": "የሚገኙ የጤና ባለሙያዎች",
+  "nursesLabel": "ነርሶች",
+  "noNursesAvailable": "በአሁኑ ጊዜ ምንም ነርሶች የሉም",
+  "navigateToNurses": "ወደ ነርሶች ዝርዝር ይሂዱ",
+  "healthProfessionalsLabel": "የጤና ባለሙያዎች",
+  "navigateToHealthProfessionals": "ወደ የጤና ባለሙያዎች ዝርዝር ይሂዱ",
+  "selectHealthProfessionals": "ለመመልከት የጤና ባለሙያዎችን ይምረጡ",
+  "viewComments": "አስተያየቶችን ተመልከት",
+  "@viewComments": {
+    "description": "Text displayed to prompt users to view comments on a post"
+  },
+  "errorLikingPost": "ልጥፍ መውደድ ላይ ስህተት፡ {error}",
+  "@errorLikingPost": {
+    "description": "Error message when liking/unliking a post fails",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "errorSearchingPosts": "ልጥፎችን መፈለግ ላይ ስህተት፡ {error}",
+  "@errorSearchingPosts": {
+    "description": "Error message when searching posts fails",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "errorFetchingPosts": "ልጥፎችን ማግኘት ላይ ስህተት፡ {error}",
+  "@errorFetchingPosts": {
+    "description": "Error message when fetching user posts fails",
+    "placeholders": {
+      "error": {
+         "type": "Object"
+      }
+    }
+  },
+  "messageButton": "መልእክት",
+  "@messageButton": {
+    "description": "Label for the button to start a chat with a user"
+  },
+  "postsTitle": "ልጥፎች",
+  "@postsTitle": {
+    "description": "Title for the section displaying user posts"
+  },
+  "userAvatar": "የ{name} አቫታር",
+  "@userAvatar": {
+    "description": "Accessibility label for user avatar",
+    "placeholders": {
+      "name": {
+        "type": "Object"
+      }
+    }
+  },
+  "sentMessage": "የተላከ መልእክት",
+  "@sentMessage": {
+    "description": "Accessibility label prefix for sent messages"
+  },
+  "receivedMessage": "የተቀበለ መልእክት",
+  "@receivedMessage": {
+    "description": "Accessibility label prefix for received messages"
+  },
+  "emptyTitleError": "የልጥፍ ርዕስ ባዶ መሆን አይችልም",
+  "postTitleHint": "የልጥፍ ርዕስ ያስገቡ",
+  "@emptyTitleError": { "description": "Message shown when post title is empty" },
+  "@postTitleHint": { "description": "Hint text for post title input" },
+  "addCommentHint": "አስተያየት ያክሉ...",
+  "@addCommentHint": { "description": "Hint text for the comment input field" },
+  "viewMessages": "መልዕክቶችን ይመልከቱ",
+  "@viewMessages": { "description": "Tooltip for the messages action button" },
+  "messagesTitle": "መልዕክቶች",
+  "@messagesTitle": { "description": "Title for the messages screen" },
+  "noMessages": "እስካሁን መልዕክቶች የሉም",
+  "@noMessages": { "description": "Message shown when there are no conversations" },
+  "errorFetchingMessages": "መልዕክቶችን መግኘት ላይ ስህተት፡ {error}",
+  "@errorFetchingMessages": { "description": "Error message for messages fetch failure", "placeholders": { "error": {
+    "type": "Object"
+  } } },
+  "errorFetchingConversations": "ውይይቶችን ማምጣት ላይ ስህተት፡ {error}",
+  "@errorFetchingConversations": {
+    "description": "Error message for conversation fetch failure",
+    "placeholders": { "error": {
+      "type": "Object"
+    } }
+  },
+  "noConversations": "እስካሁን ውይይቶች የሉም",
+  "@noConversations": { "description": "Message when no conversations exist" },
+  "reportPostTitle": "ጽሁፍ ሪፖርት አድርግ",
+  "@reportPostTitle": { "description": "Title for report post dialog" },
+  "reportPost": "ሪፖርት",
+  "@reportPost": { "description": "Menu option to report a post" },
+  "reportReasonHint": "የሪፖርት ምክንያት",
+  "@reportReasonHint": { "description": "Hint for report reason input" },
+  "reportReasonRequired": "እባክዎ የሪፖርት ምክንያት ያቅርቡ",
+  "@reportReasonRequired": { "description": "Error when report reason is empty" },
+  "reportSubmitted": "ሪፖርት በተሳካ ሁኔታ ተመዝግቧል",
+  "@reportSubmitted": { "description": "Confirmation message for report submission" },
+  "errorReportingPost": "ጽሁፍ ሪፖርት ማድረግ ላይ ስህተት፡ {error}",
+  "@errorReportingPost": { "description": "Error message for report failure", "placeholders": { "error": {
+    "type": "Object"
+  } } },
+  "postOptions": "Post options",
+  "@postOptions": { "description": "Tooltip for post options menu" },
+  "reasonInappropriate": "አግባብ ያልሆነ ይዘት", 
+  "@reasonInappropriate": { "description": "Report reason for inappropriate content" }, 
+  "reasonSpam": "ስፓም", 
+  "@reasonSpam": { "description": "Report reason for spam" }, 
+  "reasonOffensive": "አንገብጋቢ ቋንቋ", 
+  "@reasonOffensive": { "description": "Report reason for offensive language" }, 
+  "reasonMisleading": "ማታለል ወይም የተሳሳተ መረጃ", 
+  "@reasonMisleading": { "description": "Report reason for misleading or false information" }, 
+  "reasonHarassment": "ማስፈራራት ወይም ጉልበተኝነት", 
+  "@reasonHarassment": { "description": "Report reason for harassment or bullying" }, 
+  "reasonCopyright": "የቅጂ መብት ጥሰት", 
+  "@reasonCopyright": { "description": "Report reason for copyright or intellectual property violation" }, 
+  "reasonOther": "ሌላ", 
+  "@reasonOther": { "description": "Report reason for other issues" },
+  "deletePostTitle": "ጽሁፍ ሰርዝ",
+  "@deletePostTitle": { "description": "Title for delete post dialog" },
+  "deletePostConfirmation": "ይህን ጽሁፍ መሰረዝ እንደሚፈልጉ እርግጠኛ ነዎት? ይህ ተግባር መቀልበስ አይቻልም።",
+  "@deletePostConfirmation": { "description": "Confirmation message for deleting a post" },
+  "deletePostSuccess": "ጽሁፍ በተሳካ ሁኔታ ተሰርዟል",
+  "@deletePostSuccess": { "description": "Confirmation message for successful post deletion" },
+  "errorDeletingPost": "ጽሁፍ መሰረዝ ላይ ስህተት፡ {error}",
+  "@errorDeletingPost": { "description": "Error message for post deletion failure", "placeholders": { "error": {
+    "type": "Object"
+  } } },
+  "deleteButton": "ሰርዝ",
+  "@deleteButton": { "description": "Delete button label" },
+  "errorDeletingPostWithComments": "ጽሁፍ መሰረዝ አይቻልም ምክንያቱም አስተያየቶች አሉት።",
+  "@errorDeletingPostWithComments": { "description": "Error message when post deletion fails due to comments" },
+    "you": "እርስዎ",
+    "imageMessage": "ምስል",
+    "videoMessage": "ቪዲዮ",
+    "documentMessage": "ሰነድ",
+    "errorFetchingPost": "ጽሁፍ በማምጣት ላይ ስህተት: @error",
+  "verificationCodeSentSuccess": "የማረጋገጫ ኮድ ወደ {email} ተልኳል።",
+  "@verificationCodeSentSuccess": {
+    "description": "Success message after sending the verification code in Amharic",
+    "placeholders": {
+      "email": {
+        "type": "Object"
+      }
+    }
+  },
+  "verificationCodeError": "ኮድ መላክ ወይም ማረጋገጥ አልተሳካም፡ {error}",
+  "@verificationCodeError": {
+    "description": "Error message when sending or verifying the code fails in Amharic",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "invalidCodeError": "እባክዎ ትክክለኛ ባለ 6-አሃዝ የማረጋገጫ ኮድ ያስገቡ።",
+  "@invalidCodeError": {
+    "description": "Error message when the verification code is invalid in Amharic"
+  },
+  "emptyPasswordError": "እባክዎ አዲስ የይለፍ ቃል ያስገቡ።",
+  "@emptyPasswordError": {
+    "description": "Error message when the new password field is empty in Amharic"
+  },
+  "passwordUpdateSuccess": "የይለፍ ቃል በተሳካ ሁኔታ ተዘምኗል።",
+  "@passwordUpdateSuccess": {
+    "description": "Success message after updating the password in Amharic"
+  },
+  "verificationCodeDescription": "ወደ ኢሜይልዎ የተላከውን ባለ 6-አሃዝ የማረጋገጫ ኮድ እና አዲሱን የይለፍ ቃል ያስገቡ።",
+  "@verificationCodeDescription": {
+    "description": "Description text after sending the verification code in Amharic"
+  },
+  "passwordUpdateSuccessDescription": "የይለፍ ቃልዎ በተሳካ ሁኔታ ተዘምኗል። አሁን ለመግባት መጠቀም ይችላሉ።",
+  "@passwordUpdateSuccessDescription": {
+    "description": "Description text after successfully updating the password in Amharic"
+  },
+  "verificationCodeLabel": "የማረጋገጫ ኮድ",
+  "@verificationCodeLabel": {
+    "description": "Label for the verification code input field in Amharic"
+  },
+  "newPasswordLabel": "አዲስ የይለፍ ቃል",
+  "@newPasswordLabel": {
+    "description": "Label for the new password input field in Amharic"
+  },
+  "verifyCodeButton": "ኮድ አረጋግጥ እና የይለፍ ቃል ዘምን",
+  "@verifyCodeButton": {
+    "description": "Button text for verifying the code and updating the password in Amharic"
+  },
+  "sendVerificationCodeButton": "የማረጋገጫ ኮድ ላክ",
+  "@sendVerificationCodeButton": {
+    "description": "Button text for sending the verification code in Amharic"
+  },
+  "passwordUpdatedButton": "የይለፍ ቃል ተዘምኗል",
+  "@passwordUpdatedButton": {
+    "description": "Button text shown after password is updated in Amharic"
+  },
+  "changePassword": "የይለፍ ቃል ቀይር", 
+  "newPassword": "አዲስ የይለፍ ቃል", 
+  "confirmNewPassword": "አዲስ የይለፍ ቃል ያረጋግጡ", 
+  "passwordTooShortError": "የይለፍ ቃል ቢያንስ 8 ቁምፊዎች መሆን አለበት", 
+  "passwordsDoNotMatch": "የይለፍ ቃሎች አይዛመዱም", 
+  "passwordUpdateError": "የይለፍ ቃል መዘመን አልተሳካም፡ {error}", 
+  "submit": "አስገባ",
+  "errorLoggingOut": "መውጣት አልተሳካም፡ {error}",
+  "@errorLoggingOut": {
+    "description": "Error message shown when logout fails",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "enterOtpDescription": "በኢሜይልዎ የተላከውን 6-አሃዝ ኮድ እና አዲሱን የይለፍ ቃልዎን ያስገቡ።",
+  "otpLabel": "6-አሃዝ ኮድ",
+  "submitOtpButton": "አስገባ",
+  "passwordUpdatedSuccess": "የይለፍ ቃል በተሳካ ሁኔታ ተዘምኗል!",
+  "fullNameError": "እባክዎ ሙሉ ስምዎን ያስገቡ",
+  "ageEmptyError": "እባክዎ ዕድሜዎን ያስገቡ",
+  "ageInvalidError": "እባክዎ ተገቢ ዕድሜ ያስገቡ (0-120)",
+  "weightEmptyError": "እባክዎ ክብደትዎን ያስገቡ",
+  "heightEmptyError": "እባክዎ ቁመትዎን ያስገቡ",
+  "bloodPressureEmptyError": "እባክዎ የደም ግፊትዎን ያስገቡ",
+  "pregnancyStartDateError": "እባክዎ የእርግዝና መጀመሪያ ቀንዎን ይምረጡ",
+  "healthIssueEmptyError": "እባክዎ የጤና ችግርዎን ይግለጹ",
+  "signInSuccess": "በተሳካ ሁኔታ ገብተዋል!",
+  "googleSignInConfigError": "የGoogle መግቢያ ውቅር ጠፍቷል",
+  "googleSignUpConfigError": "የGoogle መመዝገቢያ ውቅር ስህተት",
+  "appointmentPayment": "የቀጠሮ ክፍያ",
+"paymentRequired": "ክፍያ ያስፈልጋል",
+"doctorName": "ዶክተር: {name}",
+"paymentAutoFillMessage": "የእርስዎ ዝርዝሮች በራስ-ሰር ይሞላሉ",
+"initializingPayment": "ክፍያ በማዘጋጀት ላይ...",
+"paymentInitializationFailed": "ክፍያ ማዘጋጀት አልተሳካም",
+"checkPaymentStatus": "ሁኔታ ይመልከቱ",
+"paymentSuccessful": "ክፍያ ተሳክቷል!",
+"paymentCompleted": "ክፍያ ተጠናቋል",
+"paymentSuccessMessage": "የእርስዎ ክፍያ በተሳካ ሁኔታ ተሰርቷል። አሁን የቪዲዮ ምክክር መቀላቀል ይችላሉ።",
+"paymentProcessingMessage": "የእርስዎ ክፍያ በሂደት ላይ ነው። እባክዎ ትንሽ ይጠብቁ።",
+"payNow": "አሁን ይክፈሉ",
+"paymentRequiredMessage": "የቪዲዮ ጥሪ ከመቀላቀል በፊት ክፍያ ያስፈልጋል",
+"videoLinkPending": "የቪዲዮ ሊንክ ከክፍያ በኋላ ይገኛል",
+"errorLoadingPaymentData": "የክፍያ መረጃ በመጫን ላይ ስህተት",
+"paymentStillPending": "ክፍያ አሁንም በመጠባበቅ ላይ ነው",
+"errorCheckingPayment": "የክፍያ ሁኔታ በማረጋገጥ ላይ ስህተት",
+"paid": "ተከፍሏል",
+"unpaid": "ክፍያ ያስፈልጋል",
+"accepted": "ተቀባይነት አግኝቷል",
+"pending": "በመጠባበቅ ላይ",
+"declined": "ተቋርጧል",
+"unknown": "አይታወቅም",
+"appointmentCompleted": "ቀጠሮ ተጠናቋል",
+"waitingForDoctorResponse": "የዶክተር ምላሽ በመጠባበቅ ላይ",
+"appointmentDeclined": "ቀጠሮ ተቋርጧል",
+"myAppointments": "የእኔ ቀጠሮዎች",
+"noAppointmentsScheduled": "ምንም ቀጠሮ አልተያዘም",
+"unknownDoctor": "ያልታወቀ ዶክተር",
+"couldNotLaunchVideoCall": "የቪዲዮ ጥሪ መጀመር አልተቻለም",
+"videoLinkNotAvailable": "የቪዲዮ ሊንክ አይገኝም",
+"cancelLabel": "ይሰርዙ",
+"consultationFee": "የምክክር ክፍያ: {amount} ብር",
+"consultationsFee": "የምክክር ክፍያ",
+  "typing": "እየፃፈ ነው...",
+  "online": "በመስመር ላይ",
+  "lastSeen": "መጨረሻ የታየው {time}",
+  "sendImageTooltip": "ምስል ላክ",
+  "sendVoiceMessageTooltip": "የድምጽ መልዕክት ላክ",
+  "voiceMessagesNotSupported": "የድምጽ መልዕክቶች እስካሁን አይደገፉም",
+  "messagePinned": "መልዕክት ተሰካ",
+  "messageUnpinned": "መልዕክት ተለቀቀ",
+  "errorPinningMessage": "መልዕክት መሰካት አልተሳካም፡ {error}",
+  "errorUnpinningMessage": "መልዕክት መለቀቅ አልተሳካም፡ {error}",
+  "pinMessage": "መልዕክት ሰካ",
+  "unpinMessage": "መልዕክት ንቀል",
+  "replyMessage": "መልስ",
+  "copyMessage": "ቅዳ",
+  "messageCopied": "መልዕክት ተቀድቷል",
+  "deleteMessage": "ሰርዝ",
+  "messageDeleted": "መልዕክት ተሰርዟል",
+  "errorDeletingMessage": "መልዕክት መሰረዝ አልተሳካም፡ {error}",
+  "errorSendingImage": "ምስል መላክ አልተሳካም፡ {error}",
+  "viewChatActivity": "የውይይት እንቅስቃሴ ተመልከት",
+  "chatActivity": "የውይይት እንቅስቃሴ",
+  "@typing": {
+    "description": "Text shown when other user is typing"
+  },
+  "@online": {
+    "description": "Text shown when user is online"
+  },
+  "@lastSeen": {
+    "description": "Text shown for last seen status",
+    "placeholders": {
+      "time": {
+        "type": "Object"
+      }
+    }
+  },
+  "@imageMessage": {
+    "description": "Label for image message"
+  },
+  "@videoMessage": {
+    "description": "Label for video message"
+  },
+  "@documentMessage": {
+    "description": "Label for document message"
+  },
+  "@sendImageTooltip": {
+    "description": "Tooltip for send image button"
+  },
+  "@sendVoiceMessageTooltip": {
+    "description": "Tooltip for send voice message button"
+  },
+  "@voiceMessagesNotSupported": {
+    "description": "Message when voice messages are not supported"
+  },
+  "@messagePinned": {
+    "description": "Success message when message is pinned"
+  },
+  "@messageUnpinned": {
+    "description": "Success message when message is unpinned"
+  },
+  "@errorPinningMessage": {
+    "description": "Error message when pinning message fails",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "@errorUnpinningMessage": {
+    "description": "Error message when unpinning message fails",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "@pinMessage": {
+    "description": "Label for pin message action"
+  },
+  "@unpinMessage": {
+    "description": "Label for unpin message action"
+  },
+  "@replyMessage": {
+    "description": "Label for reply message action"
+  },
+  "@copyMessage": {
+    "description": "Label for copy message action"
+  },
+  "@messageCopied": {
+    "description": "Success message when message is copied"
+  },
+  "@deleteMessage": {
+    "description": "Label for delete message action"
+  },
+  "@messageDeleted": {
+    "description": "Success message when message is deleted"
+  },
+  "@errorDeletingMessage": {
+    "description": "Error message when deleting message fails",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "@errorSendingImage": {
+    "description": "Error message when sending image fails",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "@viewChatActivity": {
+    "description": "Tooltip for viewing chat activity"
+  },
+  "@chatActivity": {
+    "description": "Title for chat activity chart"
+  },
+  "editMessage": "መልእክት አርትዕ",
+  "failedToDeleteMessage": "መልእክት መሰረዝ አልተሳካም፡ @error",
+  "editMessageHint": "መልእክትህን አርትዕ...",
+  "cancelEdit": "አርትዕ ሰርዝ",
+  "saveEdit": "አርትዕ አስቀምጥ",
+  "edited": "ተስተካክሏል",
+  "refresh": "አድስ",
+  "favorites": "ተወዳጆች",
+  "removeFavorite": "ከተወዳጆች አስወግድ",
+  "addFavorite": "ወደ ተወዳጆች ጨምር",
+  "errorTitle": "የሆነ ችግር ተፈጥሯል",
+  "errorOnboardingMessage": "የመግቢያ ይዘት መጫን አልተሳካም።",
+  "errorRetryButton": "እንደገና ይሞክሩ",
+  "errorRegisterMessage": "የምዝገባ ገፅ መጫን አልተሳካም።",
+  "okButton": "እሺ",
+  "successTitle": "ስኬት",
+   "emailNullError": "ኢሜይል ያስፈልጋል",
+   "errorCheckingNotifications": "የማሳወቂያዎችን መፈተሽ አልተሳካም፡ {error}",
+   "errorSchedulingTips": "የጤና ምክሮችን መርሐግብር ማስያዝ አልተሳካም፡ {error}",
+   "errorLoadingProfileImage": "የመገለጫ ምስል መጫን አልተሳካም፡ {error}"
+  }

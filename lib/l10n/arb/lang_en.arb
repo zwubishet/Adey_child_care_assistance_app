@@ -1,0 +1,1816 @@
+{
+  "@@locale": "en",
+  "pageTitleNotificationDetail": "Notification Details",
+  "messageLabel": "Message",
+  "deliveredLabel": "Delivered: {date}",
+  "@deliveredLabel": {
+    "placeholders": {
+      "date": {
+        "type": "Object"
+      }
+    }
+  },
+  "seenLabel": "Seen",
+  "unreadLabel": "Unread",
+  "relevanceLabel": "Relevance",
+  "pageTitleNotificationHistory": "Notification History",
+  "noNotifications": "No notifications yet",
+  "errorLabel": "Error: {error}",
+  "@errorLabel": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "pageTitleCommunity": "Community",
+  "whatsOnYourMind": "What's on your mind?",
+  "noPosts": "No posts yet. Create a new one!",
+  "pageTitleProfile": "Profile",
+  "languageSettings": "Language Settings",
+  "languageEnglish": "English",
+  "languageAmharic": "Amharic",
+  "viewNotification": "View Notification",
+  "pageTitleHome": "Home",
+  "pageTitleHealthMetrics": "Health Metrics",
+  "pageTitleEducation": "Education",
+  "pageTitleFavorites": "Favorites",
+  "pageTitleWeeklyTip": "Weekly Tip",
+  "pageTitleJournal": "Journal",
+  "greeting": "Hello, {name}!",
+  "@greeting": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "pregnancyJourney": "Pregnancy Journey",
+  "weeksLabel": "Weeks",
+  "daysLabel": "Days",
+  "weeklyTips": "Weekly Tips",
+  "noTipsYet": "No tips yet—add some!",
+  "exploreFeatures": "Explore Features",
+  "featureCalendar": "Calendar",
+  "featureCalendarDescription": "Plan appointments",
+  "featureHealthMetrics": "Health Metrics",
+  "featureHealthMetricsDescription": "Track your health",
+  "featureJournal": "Journal",
+  "featureJournalDescription": "Write your thoughts",
+  "featureNameSuggestion": "Name Suggestion",
+  "featureNameSuggestionDescription": "Find baby names",
+  "noUserLoggedIn": "No user logged in",
+  "failedToLoadProfile": "Failed to load profile: {error}",
+  "@failedToLoadProfile": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "weekLabel": "Week",
+  "noTitle": "No Title",
+  "pageTitleHealthArticle": "Health Article",
+  "noDiaryEntries": "No diary entries yet",
+  "errorLoadingEntries": "Error loading entries: {error}",
+  "@errorLoadingEntries": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "addedToFavorites": "Added to favorites!",
+  "removedFromFavorites": "Removed from favorites!",
+  "errorUpdatingFavorite": "Error updating favorite: {error}",
+  "@errorUpdatingFavorite": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "noContent": "No Content",
+  "moreButton": "More >>>",
+  "lessButton": "Less >>>",
+  "postedAt": "Posted at: {date}",
+  "@postedAt": {
+    "placeholders": {
+      "date": {
+        "type": "Object"
+      }
+    }
+  },
+  "weekLabelWithNumber": "Week {week}",
+  "@weekLabelWithNumber": {
+    "placeholders": {
+      "week": {
+        "type": "int"
+      }
+    }
+  },
+  "favoriteEntriesTitle": "Favorite Entries",
+  "noFavoriteEntries": "No favorite entries yet",
+  "refreshButton": "Refresh",
+  "showMore": "Show More >>>",
+  "showLess": "Show Less >>>",
+  "postedAtLabel": "Posted at",
+  "bottomNavHome": "Home",
+  "bottomNavCommunity": "Community",
+  "bottomNavEducation": "Education",
+  "bottomNavConsult": "Consult",
+  "failedToLoadUserData": "Failed to load user data",
+  "errorLoadingData": "Error occurred: {error}",
+  "@errorLoadingData": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "consultPageComingSoon": "Consult Page (Coming Soon)",
+  "editProfileTitle": "Edit Profile",
+  "chooseFromGallery": "Choose from Gallery",
+  "takePhoto": "Take Photo",
+  "personalInformation": "Personal Information",
+  "fullNameLabel": "Full Name",
+  "ageLabel": "Age",
+  "weightLabel": "Weight",
+  "heightLabel": "Height",
+  "bloodPressureLabel": "Blood Pressure (e.g., 120/80)",
+  "selectHealthConditions": "Select applicable health conditions",
+  "describeHealthIssue": "Describe your health issue",
+  "healthIssueHint": "Describe your health history or issues here...",
+  "saveProfileButton": "Save Profile",
+  "failedToUpdateProfile": "Failed to update profile: {error}",
+  "@failedToUpdateProfile": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "cameraPermissionDenied": "Camera permission denied",
+  "galleryPermissionDenied": "Gallery permission denied",
+  "imageTooLarge": "Image is too large, please choose a smaller one",
+  "errorPickingImage": "Error picking image: {error}",
+  "@errorPickingImage": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "profileUpdatedSuccessfully": "Profile updated successfully!",
+  "weightUnit": "{unit, select, kg {kg} lbs {lbs} other {{unit}}}",
+  "@weightUnit": {
+    "placeholders": {
+      "unit": {
+        "type": "String"
+      }
+    }
+  },
+  "heightUnit": "{unit, select, cm {cm} ft {ft} other {{unit}}}",
+  "@heightUnit": {
+    "placeholders": {
+      "unit": {
+        "type": "String"
+      }
+    }
+  },
+  "healthCondition": "{condition, select, diabetes {Diabetes} hypertension {Hypertension} asthma {Asthma} heartDisease {Heart Disease} thyroidIssues {Thyroid Issues} other {Other} other {{condition}}}",
+  "@healthCondition": {
+    "placeholders": {
+      "condition": {
+        "type": "String"
+      }
+    }
+  },
+  "errorMarkingAsSeen": "Error marking as seen: {error}",
+  "@errorMarkingAsSeen": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "tapToView": "Tap to view",
+  "notificationChannelName": "Daily Tip",
+  "notificationChannelDescription": "Health tips every 4 days",
+  "fallbackTipTitle": "Tip {index}",
+  "@fallbackTipTitle": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "fallbackTipBody": "Consult your doctor for advice.",
+  "relevanceLabelWithValue": "Relevance: {value}",
+  "@relevanceLabelWithValue": {
+    "placeholders": {
+      "value": {
+        "type": "String"
+      }
+    }
+  },
+  "genderLabel": "Gender",
+  "genderSelectionError": "Please select a gender",
+  "enterHealthData": "Enter Health Data",
+  "bpSystolicLabel": "Blood Pressure Systolic (mmHg)",
+  "bpDiastolicLabel": "Blood Pressure Diastolic (mmHg)",
+  "heartRateLabel": "Heart Rate (BPM)",
+  "bodyTemperatureLabel": "Body Temperature (°C)",
+  "weightLabelKg": "Weight (kg)",
+  "saveDataButton": "Save Data",
+  "recommendationsTitle": "Recommendations",
+  "healthTrendsTitle": "Health Trends",
+  "noDataAvailable": "No data available",
+  "dataSavedSuccessfully": "Data saved successfully!",
+  "failedToSaveData": "Failed to save data. Please try again.",
+  "invalidValuesError": "Please enter valid values for all fields",
+  "tempScaledLabel": "Temperature (°C x 5)",
+  "bpLowRecommendation": "Your blood pressure appears low (Systolic: {bpSys} mmHg, Diastolic: {bpDia} mmHg). This could be due to dehydration, fatigue, or other factors. To stabilize, consider adding a small amount of salt (e.g., a pinch in your food), drinking more water throughout the day (aim for 8-10 glasses), and eating small, frequent meals. If you feel dizzy or faint often, consult a healthcare professional to rule out other issues.",
+  "@bpLowRecommendation": {
+    "placeholders": {
+      "bpSys": {
+        "type": "int"
+      },
+      "bpDia": {
+        "type": "int"
+      }
+    }
+  },
+  "bpHighRecommendation": "Your blood pressure is elevated (Systolic: {bpSys} mmHg, Diastolic: {bpDia} mmHg), which may indicate hypertension. To manage, reduce salt intake by avoiding processed foods and choosing fresh ingredients, engage in moderate exercise like brisk walking or cycling for 30 minutes most days of the week, and practice stress reduction techniques like yoga or deep breathing for 10-15 minutes daily. If this persists across multiple readings, consider seeing a doctor for a detailed evaluation.",
+  "@bpHighRecommendation": {
+    "placeholders": {
+      "bpSys": {
+        "type": "int"
+      },
+      "bpDia": {
+        "type": "int"
+      }
+    }
+  },
+  "bpNormalRecommendation": "Your blood pressure (Systolic: {bpSys} mmHg, Diastolic: {bpDia} mmHg) is within the normal range. To maintain this, continue a balanced diet rich in fruits, vegetables, and lean proteins, and get at least 150 minutes of moderate exercise per week. Monitoring trends over time helps ensure it stays stable.",
+  "@bpNormalRecommendation": {
+    "placeholders": {
+      "bpSys": {
+        "type": "int"
+      },
+      "bpDia": {
+        "type": "int"
+      }
+    }
+  },
+  "hrLowRecommendation": "Your heart rate ({hr} BPM) is on the lower side. This can be normal for fit individuals, but if you're not highly active or feel unusually tired, it's worth monitoring. To boost cardiovascular health, include activities like jogging, swimming, or dancing a few times a week for 20-30 minutes. If your heart rate drops further or you experience symptoms like dizziness, consult a doctor.",
+  "@hrLowRecommendation": {
+    "placeholders": {
+      "hr": {
+        "type": "int"
+      }
+    }
+  },
+  "hrHighRecommendation": "Your heart rate ({hr} BPM) is elevated, which could be due to stress, caffeine, or physical activity. To lower it, try relaxation techniques like deep breathing exercises (inhale for 4 seconds, exhale for 6 seconds) or meditation for 10-15 minutes daily. Limit stimulants like coffee or energy drinks, and ensure you're getting 7-9 hours of sleep. If consistently high, a medical evaluation may be needed.",
+  "@hrHighRecommendation": {
+    "placeholders": {
+      "hr": {
+        "type": "int"
+      }
+    }
+  },
+  "hrNormalRecommendation": "Your heart rate ({hr} BPM) is in a healthy range. To maintain this, continue a regular schedule of moderate physical activities like walking or cycling and manage stress effectively with hobbies or relaxation practices. Keep monitoring to spot any unusual changes.",
+  "@hrNormalRecommendation": {
+    "placeholders": {
+      "hr": {
+        "type": "int"
+      }
+    }
+  },
+  "tempLowRecommendation": "Your body temperature ({temp}°C) is below average, which may indicate you're cold or your metabolism is sluggish. Keep warm by wearing layers or using a blanket, and consume warm beverages like herbal tea throughout the day. Monitor for signs of illness like fatigue or chills, and if this persists, consider consulting a doctor about a thyroid test, as low body temperature can sometimes indicate hormonal imbalances.",
+  "@tempLowRecommendation": {
+    "placeholders": {
+      "temp": {
+        "type": "double"
+      }
+    }
+  },
+  "tempHighRecommendation": "Your body temperature ({temp}°C) is elevated, which may indicate a fever or overheating. Stay hydrated by drinking 8-12 glasses of water daily, rest in a cool environment, and avoid strenuous exercise until it subsides. If above 38°C or lasting more than a day, seek medical advice to rule out infections or other causes.",
+  "@tempHighRecommendation": {
+    "placeholders": {
+      "temp": {
+        "type": "double"
+      }
+    }
+  },
+  "tempNormalRecommendation": "Your body temperature ({temp}°C) is normal. To maintain this, dress appropriately for the weather, stay hydrated with 6-8 glasses of water daily, and avoid extreme temperature changes. Regular monitoring helps catch any variations early.",
+  "@tempNormalRecommendation": {
+    "placeholders": {
+      "temp": {
+        "type": "double"
+      }
+    }
+  },
+  "weightLowRecommendation": "Your weight ({weight} kg) is on the lower side. To gain or maintain healthy weight, focus on a nutrient-dense diet with proteins like eggs, chicken, or beans, healthy fats like nuts or avocado, and complex carbs like whole grains. Aim for 3 balanced meals and 2 snacks daily, and consider light strength training exercises like small weight lifting to build muscle mass. If struggling to gain weight, consult a dietitian.",
+  "@weightLowRecommendation": {
+    "placeholders": {
+      "weight": {
+        "type": "double"
+      }
+    }
+  },
+  "weightHighRecommendation": "Your weight ({weight} kg) is on the higher side. To manage, incorporate regular physical activity like walking, swimming, or yoga for 30-40 minutes most days of the week, and focus on a diet rich in vegetables, lean proteins, and whole grains while reducing sugary drinks and processed snacks. Set small, achievable goals (e.g., losing 0.5 kg per month) and track progress. A healthcare provider can offer tailored advice if needed.",
+  "@weightHighRecommendation": {
+    "placeholders": {
+      "weight": {
+        "type": "double"
+      }
+    }
+  },
+  "weightNormalRecommendation": "Your weight ({weight} kg) is in a healthy range. To maintain this, continue a balanced diet filled with fruits, vegetables, and lean proteins, and get at least 150 minutes of moderate exercise per week. Regular weigh-ins help ensure consistency over time.",
+  "@weightNormalRecommendation": {
+    "placeholders": {
+      "weight": {
+        "type": "double"
+      }
+    }
+  },
+  "bpSysIncreasedRecommendation": "Your systolic blood pressure has increased by more than 10 mmHg from your last measurement (from {prevBpSys} to {bpSys}). This could be due to situational factors (e.g., stress or diet), but monitor closely over the next few days. Reduce salt intake, avoid caffeine before bed, and try a 10-minute relaxation exercise daily to see if it stabilizes.",
+  "@bpSysIncreasedRecommendation": {
+    "placeholders": {
+      "prevBpSys": {
+        "type": "int"
+      },
+      "bpSys": {
+        "type": "int"
+      }
+    }
+  },
+  "hrIncreasedRecommendation": "Your heart rate has increased by more than 15 BPM compared to your previous entry (from {prevHr} to {hr}). This might reflect temporary stress or activity, but if you haven’t been exercising, consider what’s changed—too much coffee, poor sleep, or stress? Take time for a calming activity like reading or a warm bath to unwind.",
+  "@hrIncreasedRecommendation": {
+    "placeholders": {
+      "prevHr": {
+        "type": "int"
+      },
+      "hr": {
+        "type": "int"
+      }
+    }
+  },
+  "weightIncreasedRecommendation": "Your weight has increased by more than 2 kg from your last record (from {prevWeight} to {weight}). This could be water retention or diet-related. Cut back on salty or carb-heavy meals for a few days and increase your water intake to flush out excess fluids. If persistent, reassess your calorie intake and activity level.",
+  "@weightIncreasedRecommendation": {
+    "placeholders": {
+      "prevWeight": {
+        "type": "double"
+      },
+      "weight": {
+        "type": "double"
+      }
+    }
+  },
+  "allVitalsNormalRecommendation": "All your latest vitals (Blood Pressure: {bpSys}/{bpDia} mmHg, Heart Rate: {hr} BPM, Temperature: {temp}°C, Weight: {weight} kg) are within normal ranges. Great job! Keep up your healthy habits, including a balanced diet, regular exercise (150 minutes per week), and consistent sleep (7-9 hours per night) to stay on track.",
+  "@allVitalsNormalRecommendation": {
+    "placeholders": {
+      "bpSys": {
+        "type": "int"
+      },
+      "bpDia": {
+        "type": "int"
+      },
+      "hr": {
+        "type": "int"
+      },
+      "temp": {
+        "type": "double"
+      },
+      "weight": {
+        "type": "double"
+      }
+    }
+  },
+  "noDataRecommendation": "No data available yet. Start entering your health metrics to receive personalized recommendations.",
+  "tooltipBpSys": "Blood Pressure Sys: {value} mmHg",
+  "@tooltipBpSys": {
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "tooltipHr": "Heart Rate: {value} BPM",
+  "@tooltipHr": {
+    "placeholders": {
+      "value": {
+        "type": "int"
+      }
+    }
+  },
+  "tooltipTemp": "Temperature: {value}°C",
+  "@tooltipTemp": {
+    "placeholders": {
+      "value": {
+        "type": "double"
+      }
+    }
+  },
+  "tooltipWeight": "Weight: {value} kg",
+  "@tooltipWeight": {
+    "placeholders": {
+      "value": {
+        "type": "double"
+      }
+    }
+  },
+  "boysLabel": "Boys",
+  "femaleGender": "Female",
+  "girlsLabel": "Girls",
+  "maleGender": "Male",
+  "noNamesAvailable": "No names available for {category}",
+  "@noNamesAvailable": {
+    "placeholders": {
+      "category": {
+        "type": "String"
+      }
+    }
+  },
+  "pageTitleNameSuggestion": "Baby Name Suggestion",
+  "tabAll": "All",
+  "tabChristian": "Christian",
+  "tabMuslim": "Muslim",
+  "addNoteLabel": "Add Note",
+  "deleteAction": "Delete",
+  "errorDeletingNote": "Error deleting note: {error}",
+  "@errorDeletingNote": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "loginPrompt": "Please log in",
+  "noNotesMatchSearch": "No notes match your search",
+  "noNotesYet": "No notes yet. Add one!",
+  "searchHint": "Search notes by title...",
+  "aboutSection": "About",
+  "appointmentAccepted": "Appointment Accepted",
+  "appointmentCancelled": "Appointment Cancelled",
+  "appointmentCancelledMessage": "This appointment has been cancelled. The video call will end.",
+  "appointmentWithDoctor": "Appointment with {doctorName}",
+  "@appointmentWithDoctor": {
+    "placeholders": {
+      "doctorName": {
+        "type": "String"
+      }
+    }
+  },
+  "appointmentsLabel": "Appointments",
+  "availableDoctors": "Available Doctors",
+  "availableTimeSlots": "Available Time Slots",
+  "beforeJoining": "Before Joining",
+  "bookAppointment": "Book Appointment",
+  "bookAppointmentWith": "Book Appointment with {fullName}",
+  "@bookAppointmentWith": {
+    "placeholders": {
+      "fullName": {
+        "type": "String"
+      }
+    }
+  },
+  "bookNewAppointmentTooltip": "Book a new appointment",
+  "bookingLabel": "Booking",
+  "callEnded": "Call ended: {error}",
+  "@callEnded": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "connectedToCall": "Connected to call",
+  "connectedToServer": "Connected to server",
+  "connectingToCall": "Connecting to call...",
+  "contactInformation": "Contact Information",
+  "copiedToClipboard": "Copied to clipboard",
+  "copyLinkTooltip": "Copy link",
+  "couldNotCreateProfile": "Could not create user profile. Please try again.",
+  "doctorProfile": "Doctor Profile: {fullName}, {speciality}",
+  "@doctorProfile": {
+    "placeholders": {
+      "fullName": {
+        "type": "String"
+      },
+      "speciality": {
+        "type": "String"
+      }
+    }
+  },
+  "doctorRating": "Doctor {fullName}, {speciality}, 4.5 rating",
+  "@doctorRating": {
+    "placeholders": {
+      "fullName": {
+        "type": "String"
+      },
+      "speciality": {
+        "type": "String"
+      }
+    }
+  },
+  "doctorsLabel": "Doctors",
+  "emailLabel": "Email",
+  "ensureStableConnection": "Ensure you have a stable internet connection",
+  "errorJoiningCall": "Error joining call",
+  "errorPrefix": "Error",
+  "errorSendingRequest": "Error sending request: {error}",
+  "@errorSendingRequest": {
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "findQuietSpace": "Find a quiet, private space for your consultation",
+  "haveQuestionsReady": "Have your questions ready for the doctor",
+  "inCall": "In call",
+  "invalidDateFormat": "Invalid date format",
+  "joinNow": "Join Now",
+  "joinVideoCall": "Join Video Call",
+  "joining": "Joining...",
+  "joiningCall": "Joining call...",
+  "later": "Later",
+  "meetingInformation": "Meeting Information",
+  "motherAppTitle": "Mothers App",
+  "navigateToAppointments": "Navigate to Appointments page",
+  "navigateToBooking": "Navigate to Booking page",
+  "navigateToDoctors": "Navigate to Doctors page",
+  "newMeetingLinkAvailable": "New meeting link available",
+  "newMeetingLinkMessage": "A new video conference link is available. Would you like to join with the new link?",
+  "noAcceptedAppointments": "No accepted appointments.\nAccepted appointments will appear here.",
+  "noAvailabilityFound": "No availability found for this doctor.",
+  "noDateAvailable": "No date available",
+  "noDescriptionAvailable": "No description available",
+  "noDoctorsAvailable": "No doctors available",
+  "noPendingAppointments": "No pending appointments.\nRequests you send will appear here.",
+  "noRejectedAppointments": "No rejected appointments.\nRejected appointments will appear here.",
+  "notAvailable": "Not available",
+  "notConnected": "Not connected - appointments may not be sent",
+  "notSpecified": "Not specified",
+  "okLabel": "OK",
+  "pageTitleAppointments": "My Appointments",
+  "phoneLabel": "Phone",
+  "pleaseSelectDateTime": "Please select a date and time",
+  "ratingLabel": "4.5 (245 reviews)",
+  "readyToJoin": "Ready to join",
+  "refreshAppointmentsTooltip": "Refresh appointments",
+  "requestAppointment": "Request Appointment",
+  "requestSent": "Appointment request sent! The doctor's response will arrive soon.",
+  "rescheduleAppointment": "Reschedule Appointment",
+  "selectDateTime": "Select Date and Time",
+  "specialityLabel": "Speciality: {speciality}",
+  "@specialityLabel": {
+    "placeholders": {
+      "speciality": {
+        "type": "String"
+      }
+    }
+  },
+  "startCall": "Start Call",
+  "startVideoCall": "Start Video Call",
+  "statusAccepted": "Accepted",
+  "statusCancelled": "Cancelled",
+  "statusPending": "Pending",
+  "statusRejected": "Rejected",
+  "timeZoneLabel": "Time Zone: {timeZone}",
+  "@timeZoneLabel": {
+    "placeholders": {
+      "timeZone": {
+        "type": "String"
+      }
+    }
+  },
+  "upcomingAppointments": "Upcoming Appointments",
+  "viewProfile": "View Profile",
+  "waitingForDoctor": "Waiting for the doctor...",
+  "yourMeetingLink": "Your meeting link",
+    "retryButton": "Retry",
+    "@retryButton": {
+      "description": "Label for the retry button in error messages"
+    },
+    "searchNotesHint": "Search your notes...",
+  "@searchNotesHint": {
+    "description": "Hint text for the search bar in the notes section"
+  },
+  "pleaseLogIn": "Please log in to continue",
+  "@pleaseLogIn": {
+    "description": "Message shown when a user is not logged in"
+  },
+  "noteDeleted": "Note deleted successfully",
+  "@noteDeleted": {
+    "description": "Confirmation message when a note is deleted"
+  },
+
+  "appName": "Adde Assistance App",
+  "@appName": {
+    "description": "Name of the application displayed on the splash screen"
+  },
+  "noInternetTitle": "No Internet Connection",
+  "@noInternetTitle": {
+    "description": "Title of the dialog shown when there is no internet connection"
+  },
+  "noInternetMessage": "Please check your internet connection and try again.",
+  "@noInternetMessage": {
+    "description": "Message shown in the dialog when there is no internet connection"
+  },
+  "genderFemale": "Female",
+  "@genderFemale": {
+    "description": "Label for the female gender option"
+  },
+  "genderMale": "Male",
+  "@genderMale": {
+    "description": "Label for the male gender option"
+  },
+  "genderOther": "Other",
+  "@genderOther": {
+    "description": "Label for the other gender option"
+  },
+  "editProfile": "Edit Profile",
+  "@editProfile": {
+    "description": "Label for the option to edit the user profile"
+  },
+  "themeMode": "Theme Mode",
+  "@themeMode": {
+    "description": "Label for the theme mode toggle (light/dark)"
+  },
+  "consultationFee": "Consultation Fee",
+  "@consultationFee": {
+    "description": "Label for the consultation fee of a doctor"
+  },
+  "unknownName": "Unknown Name",
+  "@unknownName": {
+    "description": "Fallback text for when a doctor's name is not available"
+  },
+  "welcomeMessage": "Welcome to the Adde Assistance App!",
+  "@welcomeMessage": {
+    "description": "Welcome message displayed on the calendar page"
+  },
+  "testCameraMic": "Test your camera and microphone",
+  "@testCameraMic": {
+    "description": "Instruction to test camera and microphone before joining a video call"
+  },
+  "yourDoctorWillJoin": "Your doctor will join the meeting shortly",
+  "@yourDoctorWillJoin": {
+    "description": "Message indicating that the doctor will join the video call soon"
+  },
+  "roomName": "Room: {roomName}",
+  "@roomName": {
+    "description": "Label for the meeting room name",
+    "placeholders": {
+      "roomName": {
+        "type": "Object"
+      }
+    }
+  },
+  "statusLabel": "Status: {status}",
+  "@statusLabel": {
+    "description": "Label for the appointment status",
+    "placeholders": {
+      "status": {
+        "type": "Object"
+      }
+    }
+  },
+  "scheduledFor": "Scheduled for: {date}",
+  "@scheduledFor": {
+    "description": "Label for the scheduled date and time of the appointment",
+    "placeholders": {
+      "date": {
+        "type": "Object"
+      }
+    }
+  },
+  "videoConsultationTitle": "Video Consultation",
+  "@videoConsultationTitle": {
+    "description": "Title for the video consultation page"
+  },
+  "videoConsultationMessage": "Your video consultation is ready to start.",
+  "@videoConsultationMessage": {
+    "description": "Message shown when an appointment is accepted and ready for video consultation"
+  },
+  "tabPending": "Pending ({count})",
+  "@tabPending": {
+    "description": "Label for the pending appointments tab with the number of appointments",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "tabAccepted": "Accepted ({count})",
+  "@tabAccepted": {
+    "description": "Label for the accepted appointments tab with the number of appointments",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "tabRejected": "Rejected ({count})",
+  "@tabRejected": {
+    "description": "Label for the rejected appointments tab with the number of appointments",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "statusPrefix": "Status: {status}",
+  "@statusPrefix": {
+    "description": "Prefix for displaying the connection status",
+    "placeholders": {
+      "status": {
+        "type": "String"
+      }
+    }
+  },
+  "retryLabel": "Retry",
+  "@retryLabel": {
+    "description": "Label for the retry button when reconnecting"
+  },
+  "errorFetchingUserData": "Error fetching user data: {error}",
+  "@errorFetchingUserData": {
+    "description": "Error message shown when fetching user data fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "errorFetchingComments": "Error fetching comments: {error}",
+  "@errorFetchingComments": {
+    "description": "Error message shown when fetching comments fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "commentCannotBeEmpty": "Comment cannot be empty",
+  "@commentCannotBeEmpty": {
+    "description": "Error message shown when a comment is empty or user is not logged in"
+  },
+  "errorAddingComment": "Error adding comment: {error}",
+  "@errorAddingComment": {
+    "description": "Error message shown when adding a comment fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "commentDeletedSuccessfully": "Comment deleted successfully",
+  "@commentDeletedSuccessfully": {
+    "description": "Success message shown when a comment is deleted"
+  },
+  "errorDeletingComment": "Error deleting comment: {error}",
+  "@errorDeletingComment": {
+    "description": "Error message shown when deleting a comment fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "postDetailTitle": "Post Details",
+  "@postDetailTitle": {
+    "description": "Title for the post detail screen"
+  },
+  "profileOf": "Profile of {fullName}",
+  "@profileOf": {
+    "description": "Accessibility label for the profile avatar of the post author",
+    "placeholders": {
+      "fullName": {
+        "type": "String"
+      }
+    }
+  },
+  "likesCountText": "{count} likes",
+  "@likesCountText": {
+    "description": "Text displaying the number of likes for a post",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "commentsCountText": "{count} comments",
+  "@commentsCountText": {
+    "description": "Text displaying the number of comments for a post",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "commentBy": "Comment by {fullName}",
+  "@commentBy": {
+    "description": "Accessibility label for a comment by a specific user",
+    "placeholders": {
+      "fullName": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteCommentBy": "Delete comment by {fullName}",
+  "@deleteCommentBy": {
+    "description": "Accessibility label for the delete button of a comment by a specific user",
+    "placeholders": {
+      "fullName": {
+        "type": "String"
+      }
+    }
+  },
+  "noCommentsYet": "No comments yet",
+  "@noCommentsYet": {
+    "description": "Message shown when there are no comments on a post"
+  },
+  "writeCommentHint": "Write a comment...",
+  "@writeCommentHint": {
+    "description": "Hint text for the comment input field"
+  },
+  "sendCommentTooltip": "Send comment",
+  "@sendCommentTooltip": {
+    "description": "Tooltip for the send comment button"
+  },
+  "unableToLoadChat": "Unable to load chat",
+  "@unableToLoadChat": {
+    "description": "Error message shown when the chat fails to load"
+  },
+  "chatServiceUnavailable": "Chat service is currently unavailable",
+  "@chatServiceUnavailable": {
+    "description": "Error message shown when the chat database table is not found"
+  },
+  "pleaseLogInChat": "Please log in to access chat",
+  "@pleaseLogInChat": {
+    "description": "Error message shown when the user is not authenticated for chat"
+  },
+  "databaseError": "Database error: {message}",
+  "@databaseError": {
+    "description": "Error message for database-related issues",
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "networkError": "Network error, please check your connection",
+  "@networkError": {
+    "description": "Error message shown when a network issue occurs"
+  },
+  "failedToSendMessage": "Failed to send message: {error}",
+  "@failedToSendMessage": {
+    "description": "Error message shown when sending a message fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "startChatting": "Start chatting with {receiverName}",
+  "@startChatting": {
+    "description": "Message shown when there are no messages in the chat",
+    "placeholders": {
+      "receiverName": {
+        "type": "String"
+      }
+    }
+  },
+  "chatUnavailableHint": "Chat is currently unavailable",
+  "@chatUnavailableHint": {
+    "description": "Hint text for the message input field when chat is unavailable"
+  },
+  "typeMessageHint": "Type a message...",
+  "@typeMessageHint": {
+    "description": "Hint text for the message input field"
+  },
+  "sendMessageTooltip": "Send message",
+  "@sendMessageTooltip": {
+    "description": "Tooltip for the send message button"
+  },
+  "postBy": "Post by {fullName}",
+  "@postBy": {
+    "description": "Accessibility label for a post by a specific user",
+    "placeholders": {
+      "fullName": {
+        "type": "String"
+      }
+    }
+  },
+  "editPost": "Edit Post",
+  "@editPost": {
+    "description": "Label for the edit post option in the popup menu"
+  },
+  "deletePost": "Delete Post",
+  "@deletePost": {
+    "description": "Label for the delete post option in the popup menu"
+  },
+  "unlikePost": "Unlike post",
+  "@unlikePost": {
+    "description": "Accessibility label for unliking a post"
+  },
+  "likePost": "Like post",
+  "@likePost": {
+    "description": "Accessibility label for liking a post"
+  },
+  "commentOnPost": "Comment on post",
+  "@commentOnPost": {
+    "description": "Accessibility label for commenting on a post"
+  },
+  "commentPost": "Comment",
+  "@commentPost": {
+    "description": "Label for the comment button on a post"
+  },
+  "imageSizeError": "Image size exceeds 5MB limit",
+  "@imageSizeError": {
+    "description": "Error message shown when the selected image is too large"
+  },
+  "emptyContentError": "Post content cannot be empty",
+  "@emptyContentError": {
+    "description": "Error message shown when the post content is empty"
+  },
+  "userDataNotLoaded": "User data not loaded, please try again",
+  "@userDataNotLoaded": {
+    "description": "Error message shown when user data fails to load"
+  },
+  "errorSavingPost": "Error saving post: {error}",
+  "@errorSavingPost": {
+    "description": "Error message shown when saving a post fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closeTooltip": "Close",
+  "@closeTooltip": {
+    "description": "Tooltip for the close button"
+  },
+  "editPostTitle": "Edit Post",
+  "@editPostTitle": {
+    "description": "Title for the edit post screen"
+  },
+  "postButton": "Post",
+  "@postButton": {
+    "description": "Label for the post button when creating a new post"
+  },
+  "updateButton": "Update",
+  "@updateButton": {
+    "description": "Label for the update button when editing a post"
+  },
+  "removeImageTooltip": "Remove Image",
+  "@removeImageTooltip": {
+    "description": "Tooltip for the remove image button"
+  },
+  "addImageTooltip": "Add Image",
+  "@addImageTooltip": {
+    "description": "Tooltip for the add image button"
+  },
+  "createPostTitle": "Create Post",
+  "@createPostTitle": {
+    "description": "Title for the create post screen"
+  },
+  "errorFetchingUser": "Error fetching user: {error}",
+  "@errorFetchingUser": {
+    "description": "Error message shown when fetching user data fails",
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "searchPosts": "Search posts",
+  "@searchPosts": {
+    "description": "Tooltip for the search button in the community screen"
+  },
+  "createNewPost": "Create a new post",
+  "@createNewPost": {
+    "description": "Accessibility label for the create post button"
+  },
+
+
+  "welcomeBack": "Welcome Back",
+  "passwordLabel": "Password",
+  "@passwordLabel": {
+    "description": "Label for the password input field"
+  },
+  "forgetPassword": "Forget password?",
+  "logIn": "Log In",
+  "noAccount": "Don't have an account?",
+  "register": "Register",
+  "signInWithGoogle": "Sign in with Google",
+  "emptyFieldsError": "Please enter both email and password",
+  "loginFailedError": "Login failed. Please try again",
+  "googleSignInCancelledError": "Google Sign-In cancelled",
+  "googleSignInFailedError": "Google Sign-In failed",
+  "googleAuthFailedError": "Google authentication failed",
+  "invalidEmailError": "Please enter a valid email address",
+  "invalidPasswordError": "Password must be at least 6 characters",
+  "welcomeRegister": "WELCOME",
+  "@welcomeRegister": {
+    "description": "Welcome message displayed on the register page"
+  },
+  "assistMessage": "We Are Here, To Assist You!!!",
+  "@assistMessage": {
+    "description": "Assistance message displayed below the welcome text on the register page"
+  },
+  "emailLabel": "Email Address",
+  "@emailLabel": {
+    "description": "Label for the email input field on the register page"
+  },
+  "passwordLabel": "Password",
+  "@passwordLabel": {
+    "description": "Label for the password input field on the register page"
+  },
+  "confirmPasswordLabel": "Confirm Password",
+  "@confirmPasswordLabel": {
+    "description": "Label for the confirm password input field on the register page"
+  },
+  "signUpButton": "Sign Up",
+  "@signUpButton": {
+    "description": "Label for the sign-up button"
+  },
+  "alreadyHaveAccount": "Already have an account?",
+  "@alreadyHaveAccount": {
+    "description": "Prompt for users who already have an account"
+  },
+  "loginLink": "Login",
+  "@loginLink": {
+    "description": "Label for the login link"
+  },
+  "signUpWithGoogle": "Sign Up with Google",
+  "@signUpWithGoogle": {
+    "description": "Label for the Google Sign-Up button"
+  },
+  "passwordsDoNotMatchError": "Passwords do not match!",
+  "@passwordsDoNotMatchError": {
+    "description": "Error message when passwords do not match"
+  },
+  "googleSignUpCancelledError": "Google Sign-Up cancelled.",
+  "@googleSignUpCancelledError": {
+    "description": "Error message when Google Sign-Up is cancelled"
+  },
+  "googleSignUpFailedError": "Google Sign-Up failed. Please try again.",
+  "@googleSignUpFailedError": {
+    "description": "Error message when Google Sign-Up fails"
+  },
+  "googleSignUpTokenError": "Google Sign-Up Error: Missing tokens.",
+  "@googleSignUpTokenError": {
+    "description": "Error message when Google Sign-Up fails due to missing tokens"
+  },
+  "signUpFailedError": "Signup failed. Please try again.",
+  "@signUpFailedError": {
+    "description": "Error message when signup attempt fails"
+  },
+  "signUpSuccess": "Signup successful!",
+  "@signUpSuccess": {
+    "description": "Success message when signup is successful"
+  },
+  "signUpError": "Error: {error}",
+  "@signUpError": {
+    "description": "Generic error message for signup with placeholder",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "resetPasswordTitle": "Reset Password",
+  "@resetPasswordTitle": {
+    "description": "Title for the reset password page app bar"
+  },
+  "resetPasswordHeader": "Reset Your Password",
+  "@resetPasswordHeader": {
+    "description": "Header text for the reset password page"
+  },
+  "resetPasswordDescription": "Enter your email to receive a reset link",
+  "@resetPasswordDescription": {
+    "description": "Description prompting the user to enter their email for a reset link"
+  },
+  "resetLinkSentDescription": "Check your email for the reset link",
+  "@resetLinkSentDescription": {
+    "description": "Description shown after the reset email is sent"
+  },
+  "sendResetLinkButton": "Send Reset Link",
+  "@sendResetLinkButton": {
+    "description": "Label for the button to send the reset link"
+  },
+  "emailSentButton": "Email Sent",
+  "@emailSentButton": {
+    "description": "Label for the button after the reset email is sent"
+  },
+  "emptyEmailError": "Please enter your email address",
+  "@emptyEmailError": {
+    "description": "Error message when the email field is empty"
+  },
+  "resetEmailSentSuccess": "Password reset email sent to {email}",
+  "@resetEmailSentSuccess": {
+    "description": "Success message when the reset email is sent",
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "resetPasswordError": "Error: {error}",
+  "@resetPasswordError": {
+    "description": "Generic error message for password reset with placeholder",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "welcomePageTitle1": "Adey Pregnancy And Child Care App",
+  "@welcomePageTitle1": {
+    "description": "Title for the first onboarding page"
+  },
+  "welcomePageContent1": "Welcome to Adey, your trusted partner for a safe and healthy pregnancy and child care journey.",
+  "@welcomePageContent1": {
+    "description": "Content for the first onboarding page"
+  },
+  "welcomePageContent2": "Track your pregnancy and postpartum progress with tools that health status and give upgated recommedation.",
+  "@welcomePageContent2": {
+    "description": "Content for the second onboarding page"
+  },
+  "welcomePageContent3": "Access educational resources on maternal health, including articles, weekly tips, and daily notification.",
+  "@welcomePageContent3": {
+    "description": "Content for the third onboarding page"
+  },
+  "welcomePageContent4": "Connect with a community of users, share experiences, and receive support.",
+  "@welcomePageContent4": {
+    "description": "Content for the fourth onboarding page"
+  },
+  "welcomePageContent5": "Use our chatbot for instant responses and guidance on pregnancy and child care queries.",
+  "@welcomePageContent5": {
+    "description": "Content for the fifth onboarding page"
+  },
+  "skipButton": "Skip",
+  "@skipButton": {
+    "description": "Label for the skip button on the onboarding page"
+  },
+  "nextButton": "Next",
+  "@nextButton": {
+    "description": "Label for the next button on the onboarding page"
+  },
+  "getStartedButton": "Get Started",
+  "@getStartedButton": {
+    "description": "Label for the get started button on the final onboarding page"
+  },
+  "skipSemantics": "Skip onboarding",
+  "@skipSemantics": {
+    "description": "Semantics label for the skip button"
+  },
+  "nextSemantics": "Next page",
+  "@nextSemantics": {
+    "description": "Semantics label for the next button"
+  },
+  "getStartedSemantics": "Get started",
+  "@getStartedSemantics": {
+    "description": "Semantics label for the get started button"
+  },
+  "onboardingPageSemantics": "Onboarding page {pageNumber}",
+  "@onboardingPageSemantics": {
+    "description": "Semantics label for each onboarding page",
+    "placeholders": {
+      "pageNumber": {
+        "type": "int"
+      }
+    }
+  },
+  "motherFormTitle": "Welcome, Please Fill Below Form!",
+  "@motherFormTitle": {
+    "description": "Title for the mother form page app bar"
+  },
+  "fullNameLabel": "Full Name",
+  "@fullNameLabel": {
+    "description": "Label for the full name input field"
+  },
+  "fullNameRequiredError": "Full Name is required",
+  "@fullNameRequiredError": {
+    "description": "Error message when full name is empty"
+  },
+  "selectGenderLabel": "Select Gender",
+  "@selectGenderLabel": {
+    "description": "Label for the gender selection section"
+  },
+  "maleGenderOption": "Male",
+  "@maleGenderOption": {
+    "description": "Label for the male gender option"
+  },
+  "femaleGenderOption": "Female",
+  "@femaleGenderOption": {
+    "description": "Label for the female gender option"
+  },
+  "selectAgeLabel": "Select Your Age",
+  "@selectAgeLabel": {
+    "description": "Label for the age selection section"
+  },
+  "selectedAgeLabel": "Selected Age: {age}",
+  "@selectedAgeLabel": {
+    "description": "Label showing the selected age with placeholder",
+    "placeholders": {
+      "age": {
+        "type": "int"
+      }
+    }
+  },
+  "enterHeightLabel": "Enter Your Height",
+  "@enterHeightLabel": {
+    "description": "Label for the height input section"
+  },
+  "heightRequiredError": "Height is required",
+  "@heightRequiredError": {
+    "description": "Error message when height is empty"
+  },
+  "heightInvalidError": "Enter a valid number",
+  "@heightInvalidError": {
+    "description": "Error message when height is not a valid number"
+  },
+  "bloodPressureLabel": "Blood Pressure (e.g., 120/80)",
+  "@bloodPressureLabel": {
+    "description": "Label for the blood pressure input field"
+  },
+  "bloodPressureRequiredError": "Blood Pressure is required",
+  "@bloodPressureRequiredError": {
+    "description": "Error message when blood pressure is empty"
+  },
+  "bloodPressureInvalidError": "Enter valid blood pressure (e.g., 120/80)",
+  "@bloodPressureInvalidError": {
+    "description": "Error message when blood pressure format is invalid"
+  },
+  "enterWeightLabel": "Enter Your Weight",
+  "@enterWeightLabel": {
+    "description": "Label for the weight input section"
+  },
+  "weightRequiredError": "Weight is required",
+  "@weightRequiredError": {
+    "description": "Error message when weight is empty"
+  },
+  "weightInvalidError": "Enter a valid number",
+  "@weightInvalidError": {
+    "description": "Error message when weight is not a valid number"
+  },
+  "pregnancyStartDateLabel": "Pregnancy Start Date",
+  "@pregnancyStartDateLabel": {
+    "description": "Label for the pregnancy start date input field"
+  },
+  "pregnancyStartDateNotSet": "Not set",
+  "@pregnancyStartDateNotSet": {
+    "description": "Text shown when pregnancy start date is not set"
+  },
+  "pregnancyStartDateQuestion": "When Did You Become Pregnant?",
+  "@pregnancyStartDateQuestion": {
+    "description": "Label for the pregnancy start date section"
+  },
+  "pregnancyDurationLabel": "Pregnancy Duration: {weeks} weeks and {days} days",
+  "@pregnancyDurationLabel": {
+    "description": "Label showing the pregnancy duration with placeholders",
+    "placeholders": {
+      "weeks": {
+        "type": "int"
+      },
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "healthConditionsLabel": "Select Any Applicable Health Conditions",
+  "@healthConditionsLabel": {
+    "description": "Label for the health conditions selection section"
+  },
+  "healthConditionDiabetes": "Diabetes",
+  "@healthConditionDiabetes": {
+    "description": "Label for the diabetes health condition option"
+  },
+  "healthConditionHypertension": "Hypertension",
+  "@healthConditionHypertension": {
+    "description": "Label for the hypertension health condition option"
+  },
+  "healthConditionAsthma": "Asthma",
+  "@healthConditionAsthma": {
+    "description": "Label for the asthma health condition option"
+  },
+  "healthConditionHeartDisease": "Heart Disease",
+  "@healthConditionHeartDisease": {
+    "description": "Label for the heart disease health condition option"
+  },
+  "healthConditionThyroidIssues": "Thyroid Issues",
+  "@healthConditionThyroidIssues": {
+    "description": "Label for the thyroid issues health condition option"
+  },
+  "healthConditionOther": "Other",
+  "@healthConditionOther": {
+    "description": "Label for the other health condition option"
+  },
+  "healthIssueDescriptionLabel": "Describe Your Health Issue",
+  "@healthIssueDescriptionLabel": {
+    "description": "Label for the health issue description input field"
+  },
+  "healthIssueHint": "Describe your health background or issues here...",
+  "@healthIssueHint": {
+    "description": "Hint text for the health issue description input field"
+  },
+  "submitButton": "Submit",
+  "@submitButton": {
+    "description": "Label for the submit button"
+  },
+  "confirmSubmissionTitle": "Confirm Submission",
+  "@confirmSubmissionTitle": {
+    "description": "Title for the submission confirmation dialog"
+  },
+  "confirmSubmissionMessage": "Are you sure you want to submit the form?",
+  "@confirmSubmissionMessage": {
+    "description": "Message in the submission confirmation dialog"
+  },
+  "cancelButton": "Cancel",
+  "@cancelButton": {
+    "description": "Label for the cancel button in the confirmation dialog"
+  },
+  "requiredFieldsError": "Please fill all required fields!",
+  "@requiredFieldsError": {
+    "description": "Error message when required fields are not filled"
+  },
+  "invalidNumberError": "Please enter valid numbers for weight and height!",
+  "@invalidNumberError": {
+    "description": "Error message when weight or height is not a valid number"
+  },
+  "formSubmitSuccess": "Form submitted successfully!",
+  "@formSubmitSuccess": {
+    "description": "Success message when the form is submitted"
+  },
+  "formSubmitError": "Error submitting form: {error}",
+  "@formSubmitError": {
+    "description": "Error message when form submission fails with placeholder",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+"popupNotifications": "Pop-up Notifications",
+"availableHealthProfessionals": "Available Health Professionals",
+  "@availableHealthProfessionals": {
+    "description": "Title for the page showing available doctors and nurses"
+  },
+  "nursesLabel": "Nurses",
+  "@nursesLabel": {
+    "description": "Label for the nurses button"
+  },
+  "noNursesAvailable": "No nurses available at the moment",
+  "@noNursesAvailable": {
+    "description": "Message shown when no nurses are available"
+  },
+  "navigateToNurses": "Navigate to nurses list",
+  "@navigateToNurses": {
+    "description": "Accessibility label for navigating to nurses"
+  },
+  "healthProfessionalsLabel": "Health Professionals",
+  "@healthProfessionalsLabel": {
+    "description": "Label for the health professionals button"
+  },
+  "navigateToHealthProfessionals": "Navigate to health professionals list",
+  "@navigateToHealthProfessionals": {
+    "description": "Accessibility label for navigating to health professionals"
+  },
+  "selectHealthProfessionals": "Select Health Professionals to view",
+  "@selectHealthProfessionals": {
+    "description": "Message shown when no professionals are selected"
+  },
+  "viewComments": "View Comments",
+"@viewComments": {
+  "description": "Text displayed to prompt users to view comments on a post"
+},
+
+  "errorLikingPost": "Error liking post: {error}",
+  "@errorLikingPost": {
+    "description": "Error message when liking/unliking a post fails",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "errorSearchingPosts": "Error searching posts: {error}",
+  "@errorSearchingPosts": {
+    "description": "Error message when searching posts fails",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "errorFetchingPosts": "Error fetching posts: {error}",
+  "@errorFetchingPosts": {
+    "description": "Error message when fetching user posts fails",
+    "placeholders": {
+      "error": {
+         "type": "Object"
+      }
+    }
+  },
+  "messageButton": "Message",
+  "@messageButton": {
+    "description": "Label for the button to start a chat with a user"
+  },
+  "postsTitle": "Posts",
+  "@postsTitle": {
+    "description": "Title for the section displaying user posts"
+  },
+  "userAvatar": "Avatar of {name}",
+  "@userAvatar": {
+    "description": "Accessibility label for user avatar",
+    "placeholders": {
+      "name": {
+        "type": "Object"
+      }
+    }
+  },
+  "sentMessage": "Sent message",
+  "@sentMessage": {
+    "description": "Accessibility label prefix for sent messages"
+  },
+  "receivedMessage": "Received message",
+  "@receivedMessage": {
+    "description": "Accessibility label prefix for received messages"
+  },
+  "emptyTitleError": "Post title cannot be empty",
+  "postTitleHint": "Enter post title",
+  "@emptyTitleError": { "description": "Message shown when post title is empty" },
+  "@postTitleHint": { "description": "Hint text for post title input" },
+  "addCommentHint": "Add a comment...",
+  "@addCommentHint": { "description": "Hint text for the comment input field" },
+  "viewMessages": "View Messages",
+  "@viewMessages": { "description": "Tooltip for the messages action button" },
+  "messagesTitle": "Messages",
+  "@messagesTitle": { "description": "Title for the messages screen" },
+  "noMessages": "No messages yet",
+  "@noMessages": { "description": "Message shown when there are no conversations" },
+  "errorFetchingMessages": "Error fetching messages: {error}",
+  "@errorFetchingMessages": { "description": "Error message for messages fetch failure", "placeholders": { "error": {
+    "type": "Object"
+  } } },
+  "errorFetchingConversations": "Error fetching conversations: {error}",
+  "@errorFetchingConversations": {
+    "description": "Error message for conversation fetch failure",
+    "placeholders": { "error": {
+      "type": "Object"
+    } }
+  },
+  "noConversations": "No conversations yet",
+  "@noConversations": { "description": "Message when no conversations exist" },
+  "reportPostTitle": "Report Post",
+  "@reportPostTitle": { "description": "Title for report post dialog" },
+  "reportPost": "Report",
+  "@reportPost": { "description": "Menu option to report a post" },
+  "reportReasonHint": "reason for reporting",
+  "@reportReasonHint": { "description": "Hint for report reason input" },
+  "reportReasonRequired": "Please provide a reason for reporting",
+  "@reportReasonRequired": { "description": "Error when report reason is empty" },
+  "reportSubmitted": "Report submitted successfully",
+  "@reportSubmitted": { "description": "Confirmation message for report submission" },
+  "errorReportingPost": "Error reporting post: {error}",
+  "@errorReportingPost": { "description": "Error message for report failure", "placeholders": { "error": {
+    "type": "Object"
+  } } },
+  "postOptions": "Post options",
+  "@postOptions": { "description": "Tooltip for post options menu" },
+   "reasonInappropriate": "Inappropriate content", 
+   "@reasonInappropriate": { "description": "Report reason for inappropriate content" }, 
+   "reasonSpam": "Spam", 
+   "@reasonSpam": { "description": "Report reason for spam" }, 
+   "reasonOffensive": "Offensive language", 
+   "@reasonOffensive": { "description": "Report reason for offensive language" }, 
+   "reasonMisleading": "Misleading information", 
+   "@reasonMisleading": { "description": "Report reason for misleading or false information" }, 
+   "reasonHarassment": "Harassment or bullying", 
+   "@reasonHarassment": { "description": "Report reason for harassment or bullying" }, 
+   "reasonCopyright": "Copyright violation", 
+   "@reasonCopyright": { "description": "Report reason for copyright or intellectual property violation" }, 
+   "reasonOther": "Other", 
+   "@reasonOther": { "description": "Report reason for other issues" },
+   "deletePostTitle": "Delete Post",
+   "@deletePostTitle": { "description": "Title for delete post dialog" },
+   "deletePostConfirmation": "Are you sure you want to delete this post? This action cannot be undone.",
+   "@deletePostConfirmation": { "description": "Confirmation message for deleting a post" },
+   "deletePostSuccess": "Post deleted successfully",
+   "@deletePostSuccess": { "description": "Confirmation message for successful post deletion" },
+   "errorDeletingPost": "Error deleting post: {error}",
+   "@errorDeletingPost": { "description": "Error message for post deletion failure", "placeholders": { "error": {
+    "type": "Object"
+   } } },
+   "deleteButton": "Delete",
+   "@deleteButton": { "description": "Delete button label" },
+   "errorDeletingPostWithComments": "Cannot delete post because it has comments.",
+   "@errorDeletingPostWithComments": { "description": "Error message when post deletion fails due to comments" },
+
+    "you": "You",
+    "imageMessage": "Image",
+    "videoMessage": "Video",
+    "documentMessage": "Document",
+    "errorFetchingPost": "Error fetching post: @error",
+    "verificationCodeSentSuccess": "Verification code sent to {email}.",
+    "@verificationCodeSentSuccess": {
+      "description": "Success message after sending the verification code",
+      "placeholders": {
+        "email": {
+           "type": "Object"
+        }
+      }
+    },
+    "verificationCodeError": "Failed to send or verify code: {error}",
+    "@verificationCodeError": {
+      "description": "Error message when sending or verifying the code fails",
+      "placeholders": {
+        "error": {
+           "type": "Object"
+        }
+      }
+    },
+    "invalidCodeError": "Please enter a valid 6-digit verification code.",
+    "@invalidCodeError": {
+      "description": "Error message when the verification code is invalid"
+    },
+    "emptyPasswordError": "Please enter a new password.",
+    "@emptyPasswordError": {
+      "description": "Error message when the new password field is empty"
+    },
+    "passwordUpdateSuccess": "Password updated successfully.",
+    "@passwordUpdateSuccess": {
+      "description": "Success message after updating the password"
+    },
+    "verificationCodeDescription": "Enter the 6-digit verification code sent to your email and your new password.",
+    "@verificationCodeDescription": {
+      "description": "Description text after sending the verification code"
+    },
+    "passwordUpdateSuccessDescription": "Your password has been updated successfully. You can now use it to sign in.",
+    "@passwordUpdateSuccessDescription": {
+      "description": "Description text after successfully updating the password"
+    },
+    "verificationCodeLabel": "Verification Code",
+    "@verificationCodeLabel": {
+      "description": "Label for the verification code input field"
+    },
+    "newPasswordLabel": "New Password",
+    "@newPasswordLabel": {
+      "description": "Label for the new password input field"
+    },
+    "verifyCodeButton": "Verify Code & Update Password",
+    "@verifyCodeButton": {
+      "description": "Button text for verifying the code and updating the password"
+    },
+    "sendVerificationCodeButton": "Send Verification Code",
+    "@sendVerificationCodeButton": {
+      "description": "Button text for sending the verification code"
+    },
+    "passwordUpdatedButton": "Password Updated",
+    "@passwordUpdatedButton": {
+      "description": "Button text shown after password is updated"
+    },
+    "changePassword": "Change Password",
+    "newPassword": "New Password",
+    "confirmNewPassword": "Confirm New Password",
+    "passwordTooShortError": "Password must be at least 8 characters",
+    "passwordsDoNotMatch": "Passwords do not match",
+    "passwordUpdateError": "Failed to update password: {error}",
+    "submit": "Submit",
+    "errorLoggingOut": "Failed to log out: {error}",
+"@errorLoggingOut": {
+  "description": "Error message shown when logout fails",
+  "placeholders": {
+    "error": {
+      "type": "Object"
+    }
+  }
+},
+  "enterOtpDescription": "Enter the 6-digit code sent to your email and your new password.",
+  "otpLabel": "6-Digit Code",
+  "submitOtpButton": "Submit",
+  "passwordUpdatedSuccess": "Password updated successfully!",
+  "fullNameError": "Please enter your full name",
+  "ageEmptyError": "Please enter your age",
+  "ageInvalidError": "Please enter a valid age (0-120)",
+  "weightEmptyError": "Please enter your weight",
+  "heightEmptyError": "Please enter your height",
+  "bloodPressureEmptyError": "Please enter your blood pressure",
+  "pregnancyStartDateError": "Please select your pregnancy start date",
+  "healthIssueEmptyError": "Please describe your health issue",
+    "signInSuccess": "Signed in successfully!",
+    "@signInSuccess": {
+      "description": "Success message for successful sign-in"
+    },
+  "googleSignInConfigError": "Google Sign-In configuration is missing",
+  "@googleSignInConfigError": {
+        "description": "Error message when Google Sign-In WEB_CLIENT_ID is not configured"
+      },
+  "googleSignUpConfigError": "Google Sign-Up configuration error",
+  "@googleSignUpConfigError": {
+          "description": "Error message for missing Google Sign-Up configuration"
+      },
+  "appointmentPayment": "Appointment Payment",
+"paymentRequired": "Payment Required",
+"doctorName": "Doctor: {name}",
+"paymentAutoFillMessage": "Your details will be automatically filled",
+"initializingPayment": "Initializing payment...",
+"paymentInitializationFailed": "Failed to initialize payment",
+"checkPaymentStatus": "Check Status",
+"paymentSuccessful": "Payment Successful!",
+"paymentCompleted": "Payment Completed",
+"paymentSuccessMessage": "Your payment has been processed successfully. You can now join the video consultation.",
+"paymentProcessingMessage": "Your payment is being processed. Please wait a moment.",
+"payNow": "Pay Now",
+"paymentRequiredMessage": "Payment is required before joining the video call",
+"videoLinkPending": "Video link will be available after payment",
+"errorLoadingPaymentData": "Error loading payment information",
+"paymentStillPending": "Payment is still pending",
+"errorCheckingPayment": "Error checking payment status",
+"paid": "Paid",
+"unpaid": "Payment Required",
+"accepted": "Accepted",
+"pending": "Pending",
+"declined": "Declined",
+"unknown": "Unknown",
+"appointmentCompleted": "Appointment completed",
+"waitingForDoctorResponse": "Waiting for doctor's response",
+"appointmentDeclined": "Appointment was declined",
+"myAppointments": "My Appointments",
+"noAppointmentsScheduled": "No appointments scheduled",
+"unknownDoctor": "Unknown Doctor",
+"couldNotLaunchVideoCall": "Could not launch video call",
+"videoLinkNotAvailable": "Video link not available",
+"cancelLabel": "Cancel",
+"consultationFee": "Consultation Fee: {amount} ETB",
+"consultationsFee": "Consultation Fee",
+  "typing": "Typing...",
+  "online": "Online",
+  "lastSeen": "Last seen {time}",
+  "sendImageTooltip": "Send image",
+  "sendVoiceMessageTooltip": "Send voice message",
+  "voiceMessagesNotSupported": "Voice messages are not supported yet",
+  "messagePinned": "Message pinned",
+  "messageUnpinned": "Message unpinned",
+  "errorPinningMessage": "Failed to pin message: {error}",
+  "errorUnpinningMessage": "Failed to unpin message: {error}",
+  "pinMessage": "Pin message",
+  "unpinMessage": "Unpin message",
+  "replyMessage": "Reply",
+  "copyMessage": "Copy",
+  "messageCopied": "Message copied",
+  "deleteMessage": "Delete",
+  "messageDeleted": "Message deleted",
+  "errorDeletingMessage": "Failed to delete message: {error}",
+  "errorSendingImage": "Failed to send image: {error}",
+  "viewChatActivity": "View chat activity",
+  "chatActivity": "Chat Activity",
+  "@typing": {
+    "description": "Text shown when other user is typing"
+  },
+  "@online": {
+    "description": "Text shown when user is online"
+  },
+  "@lastSeen": {
+    "description": "Text shown for last seen status",
+    "placeholders": {
+      "time": {
+        "type": "Object"
+      }
+    }
+  },
+  "@imageMessage": {
+    "description": "Label for image message"
+  },
+  "@videoMessage": {
+    "description": "Label for video message"
+  },
+  "@documentMessage": {
+    "description": "Label for document message"
+  },
+  "@sendImageTooltip": {
+    "description": "Tooltip for send image button"
+  },
+  "@sendVoiceMessageTooltip": {
+    "description": "Tooltip for send voice message button"
+  },
+  "@voiceMessagesNotSupported": {
+    "description": "Message when voice messages are not supported"
+  },
+  "@messagePinned": {
+    "description": "Success message when message is pinned"
+  },
+  "@messageUnpinned": {
+    "description": "Success message when message is unpinned"
+  },
+  "@errorPinningMessage": {
+    "description": "Error message when pinning message fails",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "@errorUnpinningMessage": {
+    "description": "Error message when unpinning message fails",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "@pinMessage": {
+    "description": "Label for pin message action"
+  },
+  "@unpinMessage": {
+    "description": "Label for unpin message action"
+  },
+  "@replyMessage": {
+    "description": "Label for reply message action"
+  },
+  "@copyMessage": {
+    "description": "Label for copy message action"
+  },
+  "@messageCopied": {
+    "description": "Success message when message is copied"
+  },
+  "@deleteMessage": {
+    "description": "Label for delete message action"
+  },
+  "@messageDeleted": {
+    "description": "Success message when message is deleted"
+  },
+  "@errorDeletingMessage": {
+    "description": "Error message when deleting message fails",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "@errorSendingImage": {
+    "description": "Error message when sending image fails",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "@viewChatActivity": {
+    "description": "Tooltip for viewing chat activity"
+  },
+  "@chatActivity": {
+    "description": "Title for chat activity chart"
+  },
+  "editMessage": "Edit Message",
+  "failedToDeleteMessage": "Failed to delete message: @error",
+  "editMessageHint": "Edit your message...",
+  "cancelEdit": "Cancel Edit",
+  "saveEdit": "Save Edit",
+  "edited": "Edited",
+  "refresh": "Refresh",
+  "favorites": "Favorites",
+  "removeFavorite": "Remove from Favorites",
+  "addFavorite": "Add to Favorites",
+  "errorTitle": "Something Went Wrong",
+  "errorOnboardingMessage": "Failed to load onboarding content.",
+  "errorRetryButton": "Try Again",
+  "errorRegisterMessage": "Failed to load registration page.",
+    "okButton": "OK",
+  "successTitle": "Success",
+  "emailNullError": "Email is required",
+  "errorCheckingNotifications": "Failed to check notifications: {error}",
+  "@errorCheckingNotifications": {
+    "description": "Error message displayed when checking notifications fails",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "errorSchedulingTips": "Failed to schedule health tips: {error}",
+  "@errorSchedulingTips": {
+    "description": "Error message displayed when scheduling health tips fails",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  },
+  "errorLoadingProfileImage": "Failed to load profile image: {error}",
+  "@errorLoadingProfileImage": {
+    "description": "Error message displayed when loading profile image fails",
+    "placeholders": {
+      "error": {
+        "type": "Object"
+      }
+    }
+  }
+  }
+  
+  
+
