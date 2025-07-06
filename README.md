@@ -1,7 +1,13 @@
+Here is your cleaned-up and **professional-looking `README.md`**, with fixed Markdown formatting, working links, and improved layout:
+
+---
+
+````markdown
 # 🤰 ADDE - Pregnancy & Child Care Assistance App
 
-**ADDE** is a mobile application built with Flutter, designed to support pregnant women and new mothers by offering personalized health tracking, educational tips, real-time alerts, and community support. It empowers mothers with information and tools to monitor their health and well-being throughout pregnancy and early motherhood.
+**ADDE** is a mobile application built with **Flutter**, designed to support pregnant women and new mothers by offering personalized health tracking, educational tips, real-time alerts, and community support. It empowers mothers with information and tools to monitor their health and well-being throughout pregnancy and early motherhood.
 
+---
 
 ## 🌟 Features
 
@@ -35,22 +41,20 @@
 - Daily reminders for health checks, tips, and updates
 - Weekly summaries of health trends
 
+---
 
 ## 🛠️ Tech Stack
 
-| Layer       | Technology       |
-|-------------|------------------|
-| Frontend    | Flutter           |
-| Backend     | Supabase          |
-| Database    | PostgreSQL        |
-| Authentication | Supabase Auth |
-| Notifications | Flutter Local Notifications |
-| Hosting     | Supabase (for APIs and data) |
+| Layer            | Technology               |
+|------------------|---------------------------|
+| Frontend         | Flutter                   |
+| Backend          | Supabase                  |
+| Database         | PostgreSQL                |
+| Authentication   | Supabase Auth             |
+| Notifications    | Flutter Local Notifications |
+| Hosting          | Supabase (APIs and data)  |
 
 ---
-
-## 📦 Folder Structure
-
 
 ## 🚀 Getting Started
 
@@ -64,13 +68,13 @@
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/adde-childcare-assistance-app.git](https://github.com/zwubishet/Adey_child_care_assistance_app.git
+git clone https://github.com/zwubishet/Adey_child_care_assistance_app.git
 cd Adey_child_care_assistance_app
 flutter pub get
 flutter run
 ````
 
-> Make sure you configure Supabase keys and database schema before running the app.
+> ⚙️ Make sure you configure your Supabase keys and database schema before running the app.
 
 ---
 
@@ -87,13 +91,7 @@ flutter run
 
 **Wubishet Wudu**
 Information Systems Graduate | Flutter Developer
-📫 [Email Me](mailto:your-email@example.com)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
+📫 [Email Me](mailto:wubishetwudu1624@gmail.com)
 
 ---
 
@@ -101,8 +99,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 Special thanks to:
 
+* Special thanks to [@Yordanos-Samson](https://github.com/Yordanos-Samson) and [@Zolayetefe](https://github.com/Zolayetefe) for their invaluable contributions, teamwork, and commitment to the success of this project.
 * **Supabase** for backend services
 * **Flutter** community for packages and support
 * **Mothers worldwide** for being superheroes ❤️
 
-
+```
